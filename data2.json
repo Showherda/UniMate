@@ -16,7 +16,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Agnes Scott College",
@@ -35,7 +36,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Albion College",
@@ -54,7 +56,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Alfred University",
@@ -73,7 +76,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Allegheny College",
@@ -92,7 +96,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Alma College",
@@ -111,7 +116,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "American University",
@@ -130,7 +136,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Amherst College",
@@ -149,7 +156,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Antioch College",
@@ -168,7 +176,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Aquinas College",
@@ -187,7 +196,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Arizona State University",
@@ -206,7 +216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Auburn University",
@@ -225,7 +236,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Augustana College",
@@ -244,7 +256,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Austin College",
@@ -263,7 +276,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Azusa Pacific University",
@@ -282,7 +296,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Babson College",
@@ -301,7 +316,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bard College",
@@ -320,7 +336,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Barnard College",
@@ -339,7 +356,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Barry University",
@@ -358,7 +376,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bates College",
@@ -377,7 +396,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Baylor University",
@@ -396,7 +416,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Becker College",
@@ -415,7 +436,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Belmont University",
@@ -434,7 +456,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Beloit College",
@@ -453,7 +476,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Bennington College",
@@ -472,7 +496,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bentley University",
@@ -491,7 +516,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bethel University",
@@ -510,7 +536,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Biola University",
@@ -529,7 +556,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Birmingham-Southern College",
@@ -548,7 +576,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Boise State University",
@@ -567,7 +596,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Boston College",
@@ -586,7 +616,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Boston University",
@@ -605,7 +636,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bowdoin College",
@@ -624,7 +656,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bradley University",
@@ -643,7 +676,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Brandeis University",
@@ -662,7 +696,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Brigham Young University",
@@ -681,7 +716,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Brown University",
@@ -700,7 +736,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bryant University",
@@ -719,7 +756,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bryn Mawr College",
@@ -738,7 +776,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bucknell University",
@@ -757,7 +796,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Butler University",
@@ -776,7 +816,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "California College of the Arts",
@@ -795,7 +836,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "California Institute of Technology",
@@ -814,7 +856,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "California Poly State U. - San Luis Obispo",
@@ -833,7 +876,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "California State Poly. U. - Pomona",
@@ -852,7 +896,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "California State University - Long Beach",
@@ -871,7 +916,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "California State University - Los Angeles",
@@ -890,7 +936,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "California State University - Northridge",
@@ -909,7 +956,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Carleton College",
@@ -928,7 +976,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Carnegie Mellon University",
@@ -947,7 +996,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Case Western Reserve University",
@@ -966,7 +1016,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Catawba College",
@@ -985,7 +1036,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Catholic University",
@@ -1004,7 +1056,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Centre College",
@@ -1023,7 +1076,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Champlain College",
@@ -1042,7 +1096,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Chapman University",
@@ -1061,7 +1116,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Christopher Newport University",
@@ -1080,7 +1136,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Claremont McKenna College",
@@ -1099,7 +1156,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Clark University",
@@ -1118,7 +1176,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Clarkson University",
@@ -1137,7 +1196,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Clemson University",
@@ -1156,7 +1216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Colby College",
@@ -1175,7 +1236,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Colgate University",
@@ -1194,7 +1256,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "College of Charleston",
@@ -1213,7 +1276,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "College of Saint Benedict",
@@ -1232,7 +1296,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "College of Saint Scholastica",
@@ -1251,7 +1316,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "College of the Atlantic",
@@ -1270,7 +1336,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "College of the Holy Cross",
@@ -1289,7 +1356,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "College of William and Mary",
@@ -1308,7 +1376,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "College of Wooster",
@@ -1327,7 +1396,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Colorado College",
@@ -1346,7 +1416,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Colorado School of Mines",
@@ -1365,7 +1436,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Colorado State University - Fort Collins",
@@ -1384,7 +1456,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Columbia College (MO)",
@@ -1403,7 +1476,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Columbia College Chicago",
@@ -1422,7 +1496,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Columbia University",
@@ -1441,7 +1516,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Connecticut College",
@@ -1460,7 +1536,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Cooper Union",
@@ -1479,7 +1556,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Cornell College",
@@ -1498,7 +1576,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Cornell University",
@@ -1517,7 +1596,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Creighton University",
@@ -1536,7 +1616,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "CUNY - Baruch College",
@@ -1555,7 +1636,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Daemon College",
@@ -1574,7 +1656,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Dartmouth College",
@@ -1593,7 +1676,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Davidson College",
@@ -1612,7 +1696,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Denison University",
@@ -1631,7 +1716,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "DePaul University",
@@ -1650,7 +1736,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "DePauw University",
@@ -1669,7 +1756,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Dickinson College",
@@ -1688,7 +1776,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Drake University",
@@ -1707,7 +1796,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Drew University",
@@ -1726,7 +1816,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Drexel University",
@@ -1745,7 +1836,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Duke University",
@@ -1764,7 +1856,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Duquesne University",
@@ -1783,7 +1876,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Earlham College",
@@ -1802,7 +1896,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "East Carolina University",
@@ -1821,7 +1916,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Eastern Michigan University",
@@ -1840,7 +1936,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Eckerd College",
@@ -1859,7 +1956,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Elon University",
@@ -1878,7 +1976,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Embry Riddle Aeronautical U. - Daytona",
@@ -1897,7 +1996,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Embry Riddle Aeronautical U. - Prescott",
@@ -1916,7 +2016,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Emerson College",
@@ -1935,7 +2036,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Emory University/Oxford College",
@@ -1954,7 +2056,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Emory and Henry College",
@@ -1973,7 +2076,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Eugene Lang College The New School",
@@ -1992,7 +2096,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Evergreen State College",
@@ -2011,7 +2116,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Fairfield University",
@@ -2030,7 +2136,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Fairleigh Dickinson University",
@@ -2049,7 +2156,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Fashion Institute of Technology",
@@ -2068,7 +2176,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Flagler College",
@@ -2087,7 +2196,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Florida Institute of Technology",
@@ -2106,7 +2216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Florida State University",
@@ -2125,7 +2236,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Fontbonne University",
@@ -2144,7 +2256,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Fordham University",
@@ -2163,7 +2276,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Franklin & Marshall College",
@@ -2182,7 +2296,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Furman University",
@@ -2201,7 +2316,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Gallaudet University",
@@ -2220,7 +2336,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Gannon University",
@@ -2239,7 +2356,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "George Mason University",
@@ -2258,7 +2376,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "George Washington University",
@@ -2277,7 +2396,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Georgetown University",
@@ -2296,7 +2416,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Georgia Institute of Technology",
@@ -2315,7 +2436,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Georgia State University",
@@ -2334,7 +2456,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Gettysburg College",
@@ -2353,7 +2476,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Gonzaga University",
@@ -2372,7 +2496,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Gordon College",
@@ -2391,7 +2516,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Goshen College",
@@ -2410,7 +2536,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Goucher College",
@@ -2429,7 +2556,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Grand Valley State University",
@@ -2448,7 +2576,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Grinnell College",
@@ -2467,7 +2596,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Gustavus Adolphus College",
@@ -2486,7 +2616,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hamilton College",
@@ -2505,7 +2636,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hamline University",
@@ -2524,7 +2656,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hampshire College",
@@ -2543,7 +2676,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hampton University",
@@ -2562,7 +2696,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hartwick College",
@@ -2581,7 +2716,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Harvard University",
@@ -2600,7 +2736,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Harvey Mudd College",
@@ -2619,7 +2756,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Haverford College",
@@ -2638,7 +2776,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "High Point University",
@@ -2657,7 +2796,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hillsdale College",
@@ -2676,7 +2816,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hobart and William Smith Colleges",
@@ -2695,7 +2836,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hofstra University",
@@ -2714,7 +2856,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hollins University",
@@ -2733,7 +2876,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hood College",
@@ -2752,7 +2896,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hope College",
@@ -2771,7 +2916,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Houghton College",
@@ -2790,7 +2936,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Howard University",
@@ -2809,7 +2956,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Illinois Institute of Technology",
@@ -2828,7 +2976,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Illinois Wesleyan University",
@@ -2847,7 +2996,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Indiana University - Bloomington",
@@ -2866,7 +3016,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Indiana U. - Purdue U. - Indianapolis",
@@ -2885,7 +3036,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Iowa State University",
@@ -2904,7 +3056,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Ithaca College",
@@ -2923,7 +3076,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "James Madison University",
@@ -2942,7 +3096,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "John Brown University",
@@ -2961,7 +3116,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Johns Hopkins University",
@@ -2980,7 +3136,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Juilliard School",
@@ -2999,7 +3156,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Juniata College",
@@ -3018,7 +3176,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Kalamazoo College",
@@ -3037,7 +3196,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Kansas State University",
@@ -3056,7 +3216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Kenyon College",
@@ -3075,7 +3236,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Kettering University",
@@ -3094,7 +3256,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Keuka College",
@@ -3113,7 +3276,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Knox College",
@@ -3132,7 +3296,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Lafayette College",
@@ -3151,7 +3316,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Lake Forest College",
@@ -3170,7 +3336,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Lawrence Technological University",
@@ -3189,7 +3356,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Lawrence University",
@@ -3208,7 +3376,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Lehigh University",
@@ -3227,7 +3396,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Lewis & Clark College",
@@ -3246,7 +3416,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Lindenwood University",
@@ -3265,7 +3436,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Linfield College",
@@ -3284,7 +3456,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Louisiana State University",
@@ -3303,7 +3476,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Loyola Marymount University",
@@ -3322,7 +3496,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Loyola University Chicago",
@@ -3341,7 +3516,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Loyola University Maryland",
@@ -3360,7 +3536,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Loyola University New Orleans",
@@ -3379,7 +3556,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Luther College",
@@ -3398,7 +3576,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Lycoming College",
@@ -3417,7 +3596,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Lynn University",
@@ -3436,7 +3616,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Macalester College",
@@ -3455,7 +3636,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Maine Maritime Academy",
@@ -3474,7 +3656,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Malone University",
@@ -3493,7 +3676,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Manhattan College",
@@ -3512,7 +3696,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Marist College",
@@ -3531,7 +3716,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Marquette University",
@@ -3550,7 +3736,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Maryland Institute College of Art",
@@ -3569,7 +3756,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Massachusetts Inst of Technology",
@@ -3588,7 +3776,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "McDaniel College",
@@ -3607,7 +3796,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Mercer University",
@@ -3626,7 +3816,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Meredith College",
@@ -3645,7 +3836,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Miami University (Ohio)",
@@ -3664,7 +3856,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Michigan State University",
@@ -3683,7 +3876,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Michigan Technological University",
@@ -3702,7 +3896,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Middlebury College",
@@ -3721,7 +3916,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Mills College",
@@ -3740,7 +3936,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Millsaps College",
@@ -3759,7 +3956,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Milwaukee School of Engineering",
@@ -3778,7 +3976,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Mississippi State University",
@@ -3797,7 +3996,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Missouri U. of Science and Technology",
@@ -3816,7 +4016,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Morehouse College",
@@ -3835,7 +4036,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Mount Holyoke College",
@@ -3854,7 +4056,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Muhlenberg College",
@@ -3873,7 +4076,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Muskingum University",
@@ -3892,7 +4096,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "New College of Florida",
@@ -3911,7 +4116,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "New Jersey Institute of Technology",
@@ -3930,7 +4136,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "New Mexico Institute of Mining and Tech.",
@@ -3949,7 +4156,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "New York Institute of Technology",
@@ -3968,7 +4176,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "New York University",
@@ -3987,7 +4196,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "North Carolina State University - Raleigh",
@@ -4006,7 +4216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Northeastern University",
@@ -4025,7 +4236,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Northern Arizona University",
@@ -4044,7 +4256,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Northern Illinois University",
@@ -4063,7 +4276,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Northwestern University",
@@ -4082,7 +4296,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Nova Southeastern University",
@@ -4101,7 +4316,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Oberlin College and Conservatory",
@@ -4120,7 +4336,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Occidental College",
@@ -4139,7 +4356,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Oglethorpe University",
@@ -4158,7 +4376,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Ohio Northern University",
@@ -4177,7 +4396,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Ohio State University - Columbus",
@@ -4196,7 +4416,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Ohio University",
@@ -4215,7 +4436,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Ohio Wesleyan University",
@@ -4234,7 +4456,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Oklahoma State University",
@@ -4253,7 +4476,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Old Dominion University",
@@ -4272,7 +4496,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Olin College of Engineering",
@@ -4291,7 +4516,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Oregon State University",
@@ -4310,7 +4536,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Pace University",
@@ -4329,7 +4556,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Parsons The New School",
@@ -4348,7 +4576,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Penn State U. - Erie Behrend College",
@@ -4367,7 +4596,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Penn State U - University Park",
@@ -4386,7 +4616,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Pepperdine University",
@@ -4405,7 +4636,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Pitzer College",
@@ -4424,7 +4656,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Pomona College",
@@ -4443,7 +4676,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Pratt Institute",
@@ -4462,7 +4696,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Prescott College",
@@ -4481,7 +4716,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Princeton University",
@@ -4500,7 +4736,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Providence College",
@@ -4519,7 +4756,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Purdue University - West Lafayette",
@@ -4538,7 +4776,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Queens University of Charlotte",
@@ -4557,7 +4796,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Quinnipiac University",
@@ -4576,7 +4816,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Randolph College",
@@ -4595,7 +4836,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Reed College",
@@ -4614,7 +4856,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Regis University",
@@ -4633,7 +4876,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rensselaer Polytechnic Institute",
@@ -4652,7 +4896,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rhode Island School of Design",
@@ -4671,7 +4916,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rhodes College",
@@ -4690,7 +4936,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rice University",
@@ -4709,7 +4956,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Roanoke College",
@@ -4728,7 +4976,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Robert Morris University",
@@ -4747,7 +4996,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rochester Institute of Technology",
@@ -4766,7 +5016,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Roger Williams University",
@@ -4785,7 +5036,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rollins College",
@@ -4804,7 +5056,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rose-Hulman Inst. of Technology",
@@ -4823,7 +5076,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rowan University",
@@ -4842,7 +5096,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Rutgers University - New Brunswick",
@@ -4861,7 +5116,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Sacred Heart University",
@@ -4880,7 +5136,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Saint Anselm College",
@@ -4899,7 +5156,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Saint John's University - Minnesota",
@@ -4918,7 +5176,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Saint Louis University",
@@ -4937,7 +5196,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Saint Mary's College of California",
@@ -4956,7 +5216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Saint Mary's College - Indiana",
@@ -4975,7 +5236,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Saint Michael's College",
@@ -4994,7 +5256,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Salisbury University",
@@ -5013,7 +5276,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Salve Regina University",
@@ -5032,7 +5296,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "San Diego State University",
@@ -5051,7 +5316,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "San Francisco Art Institute",
@@ -5070,7 +5336,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "San Jose State University",
@@ -5089,7 +5356,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Santa Clara University",
@@ -5108,7 +5376,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Sarah Lawrence College",
@@ -5127,7 +5396,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Scripps College",
@@ -5146,7 +5416,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Seattle University",
@@ -5165,7 +5436,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Seton Hill University",
@@ -5184,7 +5456,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Sewanee - University of the South",
@@ -5203,7 +5476,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Siena College",
@@ -5222,7 +5496,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Skidmore College",
@@ -5241,7 +5516,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Slippery Rock University",
@@ -5260,7 +5536,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Smith College",
@@ -5279,7 +5556,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Soka University of America",
@@ -5298,7 +5576,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Southeastern Louisiana University",
@@ -5317,7 +5596,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Southern Illinois University - Carbondale",
@@ -5336,7 +5616,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Southern Methodist University",
@@ -5355,7 +5636,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Southwestern University",
@@ -5374,7 +5656,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Spelman College",
@@ -5393,7 +5676,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Cloud State University",
@@ -5412,7 +5696,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. John's College - Annapolis",
@@ -5431,7 +5716,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. John's College - Santa Fe",
@@ -5450,7 +5736,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. John's University - New York",
@@ -5469,7 +5756,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Lawrence University",
@@ -5488,7 +5776,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Mary's College of Maryland",
@@ -5507,7 +5796,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Mary's University (TX)",
@@ -5526,7 +5816,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Norbert College",
@@ -5545,7 +5836,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Olaf College",
@@ -5564,7 +5856,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Stanford University",
@@ -5583,7 +5876,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Stetson University",
@@ -5602,7 +5896,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Stevens Institute of Technology",
@@ -5621,7 +5916,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Stonehill College",
@@ -5640,7 +5936,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Suffolk University",
@@ -5659,7 +5956,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY Binghamton",
@@ -5678,7 +5976,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY Buffalo",
@@ -5697,7 +5996,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY Environ. Science and Forestry",
@@ -5716,7 +6016,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY Geneseo",
@@ -5735,7 +6036,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY Maritime",
@@ -5754,7 +6056,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY Purchase",
@@ -5773,7 +6076,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY Stony Brook",
@@ -5792,7 +6096,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Susquehanna College",
@@ -5811,7 +6116,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Swarthmore College",
@@ -5830,7 +6136,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Sweet Briar College",
@@ -5849,7 +6156,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Syracuse University",
@@ -5868,7 +6176,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Temple University",
@@ -5887,7 +6196,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Texas A & M University",
@@ -5906,7 +6216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Texas Christian University",
@@ -5925,7 +6236,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Texas Tech University",
@@ -5944,7 +6256,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "The Citadel",
@@ -5963,7 +6276,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "The New School Coll. of Performing Arts",
@@ -5982,7 +6296,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Towson University",
@@ -6001,7 +6316,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Trinity College",
@@ -6020,7 +6336,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Trinity University",
@@ -6039,7 +6356,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Tufts University",
@@ -6058,7 +6376,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Tulane University",
@@ -6077,7 +6396,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Tuskegee University",
@@ -6096,7 +6416,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Union College",
@@ -6115,7 +6436,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Alabama",
@@ -6134,7 +6456,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Arizona",
@@ -6153,7 +6476,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Arkansas",
@@ -6172,7 +6496,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - Berkeley",
@@ -6191,7 +6516,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - Davis",
@@ -6210,7 +6536,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - Irvine",
@@ -6229,7 +6556,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - Los Angeles",
@@ -6248,7 +6576,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - Merced",
@@ -6267,7 +6596,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - Riverside",
@@ -6286,7 +6616,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - San Diego",
@@ -6305,7 +6636,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - Santa Barbara",
@@ -6324,7 +6656,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of California - Santa Cruz",
@@ -6343,7 +6676,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Central Florida",
@@ -6362,7 +6696,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Chicago",
@@ -6381,7 +6716,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Cincinnati",
@@ -6400,7 +6736,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Colorado - Boulder",
@@ -6419,7 +6756,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Colorado - Colorado Springs",
@@ -6438,7 +6776,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Colorado - Denver",
@@ -6457,7 +6796,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Connecticut",
@@ -6476,7 +6816,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Dallas",
@@ -6495,7 +6836,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Dayton",
@@ -6514,7 +6856,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Delaware",
@@ -6533,7 +6876,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Denver",
@@ -6552,7 +6896,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Detroit Mercy",
@@ -6571,7 +6916,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Evansville",
@@ -6590,7 +6936,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Florida",
@@ -6609,7 +6956,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Georgia",
@@ -6628,7 +6976,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Hawaii - Manoa",
@@ -6647,7 +6996,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Houston",
@@ -6666,7 +7016,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Illinois - Chicago",
@@ -6685,7 +7036,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Illinois - Urbana Champaign",
@@ -6704,7 +7056,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Iowa",
@@ -6723,7 +7076,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Kansas",
@@ -6742,7 +7096,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Kentucky",
@@ -6761,7 +7116,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Louisville",
@@ -6780,7 +7136,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Lynchburg",
@@ -6799,7 +7156,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Maine - Orono",
@@ -6818,7 +7176,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Mary Washington",
@@ -6837,7 +7196,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Maryland - Baltimore County",
@@ -6856,7 +7216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Maryland - College Park",
@@ -6875,7 +7236,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Massachusetts - Amherst",
@@ -6894,7 +7256,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Massachusetts - Boston",
@@ -6913,7 +7276,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Massachusetts - Dartmouth",
@@ -6932,7 +7296,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Memphis",
@@ -6951,7 +7316,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Miami",
@@ -6970,7 +7336,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Michigan - Ann Arbor",
@@ -6989,7 +7356,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Michigan - Dearborn",
@@ -7008,7 +7376,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Minnesota - Duluth",
@@ -7027,7 +7396,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Minnesota - Twin Cities",
@@ -7046,7 +7416,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Mississippi",
@@ -7065,7 +7436,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Missouri - Columbia",
@@ -7084,7 +7456,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Nebraska - Lincoln",
@@ -7103,7 +7476,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Nevada - Las Vegas",
@@ -7122,7 +7496,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Nevada - Reno",
@@ -7141,7 +7516,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of New Hampshire",
@@ -7160,7 +7536,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of New Mexico",
@@ -7179,7 +7556,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of New Orleans",
@@ -7198,7 +7576,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of North Carolina - Asheville",
@@ -7217,7 +7596,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of North Carolina - Chapel Hill",
@@ -7236,7 +7616,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of North Carolina - Charlotte",
@@ -7255,7 +7636,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of North Carolina - Wilmington",
@@ -7274,7 +7656,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of North Carolina Sch. of the Arts",
@@ -7293,7 +7676,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of North Dakota",
@@ -7312,7 +7696,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of North Florida",
@@ -7331,7 +7716,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of North Texas",
@@ -7350,7 +7736,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Northern Iowa",
@@ -7369,7 +7756,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Notre Dame",
@@ -7388,7 +7776,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Oklahoma",
@@ -7407,7 +7796,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Oregon",
@@ -7426,7 +7816,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of the Pacific",
@@ -7445,7 +7836,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Pennsylvania",
@@ -7464,7 +7856,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Pittsburgh",
@@ -7483,7 +7876,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Portland",
@@ -7502,7 +7896,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Puget Sound",
@@ -7521,7 +7916,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Redlands",
@@ -7540,7 +7936,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Rhode Island",
@@ -7559,7 +7956,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Richmond",
@@ -7578,7 +7976,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Rochester",
@@ -7597,7 +7996,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of St. Thomas",
@@ -7616,7 +8016,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of San Diego",
@@ -7635,7 +8036,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of San Francisco",
@@ -7654,7 +8056,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of South Carolina",
@@ -7673,7 +8076,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of South Florida - Tampa",
@@ -7692,7 +8096,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Southern California",
@@ -7711,7 +8116,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Tampa",
@@ -7730,7 +8136,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Tennesee - Knoxville",
@@ -7749,7 +8156,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Texas - Austin",
@@ -7768,7 +8176,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Texas - Dallas",
@@ -7787,7 +8196,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Texas - San Antonio",
@@ -7806,7 +8216,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Toledo",
@@ -7825,7 +8236,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Utah",
@@ -7844,7 +8256,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Vermont",
@@ -7863,7 +8276,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Virginia",
@@ -7882,7 +8296,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Washington - Seattle",
@@ -7901,7 +8316,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Wisconsin - Madison",
@@ -7920,7 +8336,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Wisconsin - Milwaukee",
@@ -7939,7 +8356,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Utica College",
@@ -7958,7 +8376,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Valparaiso University",
@@ -7977,7 +8396,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Vanderbilt University",
@@ -7996,7 +8416,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Vassar College",
@@ -8015,7 +8436,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Villanova University",
@@ -8034,7 +8456,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Virginia Commonwealth University",
@@ -8053,7 +8476,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Virginia Military Institute",
@@ -8072,7 +8496,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Virginia Tech",
@@ -8091,7 +8516,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wabash College",
@@ -8110,7 +8536,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wagner College",
@@ -8129,7 +8556,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wake Forest University",
@@ -8148,7 +8576,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Warren Wilson College",
@@ -8167,7 +8596,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wartburg College",
@@ -8186,7 +8616,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Washington and Jefferson College",
@@ -8205,7 +8636,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Washington & Lee University",
@@ -8224,7 +8656,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Washington State University",
@@ -8243,7 +8676,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Washington University in St. Louis",
@@ -8262,7 +8696,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wellesley College",
@@ -8281,7 +8716,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wells College",
@@ -8300,7 +8736,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wentworth Institute of Technology",
@@ -8319,7 +8756,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wesleyan University",
@@ -8338,7 +8776,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Western Washington University",
@@ -8357,7 +8796,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Westminster College (UT)",
@@ -8376,7 +8816,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Westmont College",
@@ -8395,7 +8836,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wheaton College (IL)",
@@ -8414,7 +8856,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wheaton College (MA)",
@@ -8433,7 +8876,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Whitman College",
@@ -8452,7 +8896,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Whittier College",
@@ -8471,7 +8916,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Whitworth College",
@@ -8490,7 +8936,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Widener University",
@@ -8509,7 +8956,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Willamette University",
@@ -8528,7 +8976,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Williams College",
@@ -8547,7 +8996,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Winona State University",
@@ -8566,7 +9016,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wittenberg University",
@@ -8585,7 +9036,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Worcester Polytechnic Institute",
@@ -8604,7 +9056,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Xavier University of Louisiana",
@@ -8623,7 +9076,8 @@
     "eda": false,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Yale University",
@@ -8642,7 +9096,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Yeshiva University",
@@ -8661,7 +9116,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Albany College of Pharmacy & Health Sciences",
@@ -8680,7 +9136,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Assumption College",
@@ -8699,7 +9156,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Augustana College (Illinois)",
@@ -8718,7 +9176,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Bridgewater College",
@@ -8737,7 +9196,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Coe College",
@@ -8756,7 +9216,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Columbia College Hollywood",
@@ -8775,7 +9236,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Daemen College",
@@ -8794,7 +9256,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Earlham College",
@@ -8813,7 +9276,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Florida Southern College",
@@ -8832,7 +9296,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Franklin and Marshall College",
@@ -8851,7 +9316,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Grove CIty College",
@@ -8870,7 +9336,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Guilford College",
@@ -8889,7 +9356,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hampden-Sydney College",
@@ -8908,7 +9376,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Hanover College",
@@ -8927,7 +9396,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Haverford College",
@@ -8946,7 +9416,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Hult International Business School",
@@ -8965,7 +9436,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Iona College",
@@ -8984,7 +9456,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Kings College",
@@ -9003,7 +9476,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Lawrence University",
@@ -9022,7 +9496,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Lehigh University",
@@ -9041,7 +9516,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "List College The Jewish Theological Seminary",
@@ -9060,7 +9536,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Long Island University",
@@ -9079,7 +9556,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Longwood University",
@@ -9098,7 +9576,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Loyola Marymount University",
@@ -9117,7 +9596,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Marymount Manhattan College",
@@ -9136,7 +9616,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Massachusetts Institite of Technology",
@@ -9155,7 +9636,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Merrimack College",
@@ -9174,7 +9656,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Miami University of Ohio",
@@ -9193,7 +9676,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Monmouth University",
@@ -9212,7 +9696,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Moravian College",
@@ -9231,7 +9716,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Nazareth College",
@@ -9250,7 +9736,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "New York University",
@@ -9269,7 +9756,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Northwestern University",
@@ -9288,7 +9776,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Pennsylvania Academy of Fine Arts",
@@ -9307,7 +9796,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Pitzer College",
@@ -9326,7 +9816,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Providence College",
@@ -9345,7 +9836,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Ramapo College of New Jersey",
@@ -9364,7 +9856,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Saint Joseph's University",
@@ -9383,7 +9876,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Salisbury University",
@@ -9402,7 +9896,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Scripps College",
@@ -9421,7 +9916,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Sewanee: The University of the South",
@@ -9440,7 +9936,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Southern California Institute of Architecture",
@@ -9459,7 +9956,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Springfield College",
@@ -9478,7 +9976,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Francis College",
@@ -9497,7 +9996,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. John Fisher College",
@@ -9516,7 +10016,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. John's College (MD)",
@@ -9535,7 +10036,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. John's College (NM)",
@@ -9554,7 +10056,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. John's University (NY)",
@@ -9573,7 +10076,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Lawrence University",
@@ -9592,7 +10096,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "St. Louis College of Pharmacy",
@@ -9611,7 +10116,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Sterling College (Vermont)",
@@ -9630,7 +10136,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "SUNY College at Geneseo",
@@ -9649,7 +10156,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY College of Environ. Science and Forestry",
@@ -9668,7 +10176,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "SUNY Maritime College",
@@ -9687,7 +10196,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Susquehanna University",
@@ -9706,7 +10216,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Sweetbriar College",
@@ -9725,7 +10236,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "The College of New Jersey",
@@ -9744,7 +10256,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Tufts University",
@@ -9763,7 +10276,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of Miami",
@@ -9782,7 +10296,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "University of New Haven",
@@ -9801,7 +10316,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": true
+    "ea2a": true,
+    "score": 0
   },
   {
     "name": "Ursinus College",
@@ -9820,7 +10336,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Washington and Lee University",
@@ -9839,7 +10356,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": true,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Washington College",
@@ -9858,7 +10376,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Webb Institute of Naval Architecture",
@@ -9877,7 +10396,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Westminster College (PA)",
@@ -9896,7 +10416,8 @@
     "eda": true,
     "eaa": true,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wilkes University",
@@ -9915,7 +10436,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "Wofford College",
@@ -9934,7 +10456,8 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": false,
+    "score": 0
   },
   {
     "name": "York College of Pennsylvania",
@@ -9953,6 +10476,7 @@
     "eda": true,
     "eaa": false,
     "ed2a": false,
-    "ea2a": false
+    "ea2a": "fals",
+    "score": 0
   }
 ]
