@@ -498,4 +498,4 @@ Widener University,0,2%,52%,37582$;
 Winona State University,0,2%,86%,25918$;
 Wittenberg University,0,1%,86%,23850$;
 Worcester Polytechnic Institute,0,8%,74%,53257$;
-Xavier University of Louisiana,0,2%,111%,28900$;
+Xavier University of Louisiana,0,2%,111%,28900$
