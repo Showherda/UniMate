@@ -10,21 +10,21 @@ $(document).ready(() => {
 		$('table').DataTable({
 			data:unis,
 			'columns':[
-				{'data':'Institution'},
-				{'data':'ED Acceptance Rate'},
-				{'data':'RD Acceptance Rate'},
-				{'data':'Maximum Percent of Class Filled from ED'},
-				{'data':'ED to RD Acceptance Ratio'},
-				{'data':'Additional Admission Plans'},
-				{'data':'Total Cost of Attendance (out-of-state)'},
-				{'data':'Full-Time Undergraduates'},
-				{'data':'Full-Time International Noncitizen Undergraduates'},
-				{'data':'Percentage of International Noncitizens to All Undergraduates'},
-				{'data':'Aid Policy:Need-based'},
-				{'data':'Aid Policy:Merit'},
-				{'data':'Aid Policy:No Aid'},
-				{'data':'Average Financial Aid Award'},
-				{'data':'Percentage of International Noncitizens Receiving Aid'}
+				{'title':'Institution'},
+				{'title':'ED Acceptance Rate'},
+				{'title':'RD Acceptance Rate'},
+				{'title':'Maximum Percent of Class Filled from ED'},
+				{'title':'ED to RD Acceptance Ratio'},
+				{'title':'Additional Admission Plans'},
+				{'title':'Total Cost of Attendance (out-of-state)'},
+				{'title':'Full-Time Undergraduates'},
+				{'title':'Full-Time International Noncitizen Undergraduates'},
+				{'title':'Percentage of International Noncitizens to All Undergraduates'},
+				{'title':'Aid Policy:Need-based'},
+				{'title':'Aid Policy:Merit'},
+				{'title':'Aid Policy:No Aid'},
+				{'title':'Average Financial Aid Award'},
+				{'title':'Percentage of International Noncitizens Receiving Aid'}
 			]
 		});
 	}
