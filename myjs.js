@@ -8,7 +8,7 @@ $(document).ready(() => {
 	request.onload=() => {
 		let tmp=request.response.split(';');
 		for (let v of tmp)
-			unis.push(Array.from(v.split(',')));
+			unis.push(Array.from(v.trim().split(',')));
 		console.log(unis);
 		$('table').DataTable({
 			data:unis,
