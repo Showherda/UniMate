@@ -13,8 +13,8 @@ $(document).ready(() => {
 				{'title':'Institution'},
 				{'title':'ED to RD Acceptance Ratio'},
 				{'title':'Percentage of International Noncitizens to All Undergraduates'},
-				{'title':'Average Financial Aid Award'},
-				{'title':'Percentage of International Noncitizens Receiving Aid'}
+				{'title':'Percentage of International Noncitizens Receiving Aid'},
+				{'title':'Estimated Family Contribution'}
 			]
 		});
 	}
