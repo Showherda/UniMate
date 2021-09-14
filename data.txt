@@ -64,7 +64,6 @@ Flagler College,0,0,0,0,,37480,0,0,0,false,false,false,0,0,37480
 Fordham University,57.7,52.5,10.1,1.1,EA,79216,8838,641,7,false,true,false,29078,35,50138
 Furman University,72.3,64.9,29.7,1.1,ED II,68234,2293,60,3,false,true,false,39386,92,28848
 George Washington University,64.8,42.1,34.9,1.5,ED II,76276,10121,1156,11,true,true,false,22322,20,53954
-Georgetown University,"8,710",940,10.8,NR,EA,78754,6609,1008,15,true,false,false,63522,3,15232
 Gettysburg College,62.0,47.2,44.5,1.3,ED II,74460,2531,103,4,true,true,false,30608,99,43852
 Goucher College,0,0,0,0,EA,65916,1086,26,2,false,false,false,29226,85,36690
 Grinnell College,39.1,18.3,41.1,2.1,ED II,73644,1457,284,19,true,true,false,27411,100,46233
@@ -72,7 +71,6 @@ Hamilton College,45.8,16.2,57.8,2.8,ED II,74670,1899,103,5,true,false,false,6094
 Hamline University,73.7,68.9,3.1,1.1,EA,57845,1996,15,1,true,true,false,24208,100,33637
 Hampshire College,0,0,0,0,"ED II, EA",67688,522,23,4,true,true,false,27961,87,39727
 Hartwick College,0,0,0,0,,62989,0,0,0,false,false,false,0,0,62989
-Harvard University,"10,086",747,7.4,"8,023",REA,75891,6809,594,9,true,false,false,66761,102,9130
 Harvey Mudd College,22.7,17.3,44.5,1.3,,79539,898,61,7,true,true,false,43375,26,36164
 Haverford College,46.1,15.3,59.0,3.0,ED II,78890,1306,151,12,true,false,false,69234,32,9656
 High Point University,0,0,0,0,,57268,0,0,0,false,false,false,0,0,57268
@@ -111,7 +109,6 @@ Ohio Wesleyan University,0,0,0,0,,63276,0,103,7,true,true,false,27729,87,35547
 Pace University,79.7,82.9,2.7,1.0,EA,69804,7334,582,8,false,true,false,19609,58,50195
 Pitzer College,36.9,14.0,79.5,2.6,ED II,76808,801,77,10,true,true,false,59782,27,17026
 Pomona College,14.1,7.7,52.9,1.8,ED II,75094,1688,160,9,true,false,false,66125,49,8969
-Princeton University,eliminated for class of 2025,0,0,0,,68044,4688,546,12,true,false,false,50848,71,17196
 Providence College,85.1,52.6,36.6,1.6,"ED II, EA",70945,4100,67,2,true,true,false,63227,97,7718
 Queens University of Charlotte,82.6,68.0,22.8,1.2,EA,53107,1480,122,8,true,true,false,29301,89,23806
 Quinnipiac University,0,0,0,0,,69000,0,0,0,false,false,false,0,0,69000
@@ -141,7 +138,6 @@ St. John's College - Santa Fe,95.7,67.5,34.4,1.4,EA,51090,258,54,21,true,true,fa
 St. Lawrence University,83.1,45.5,40.4,1.8,ED II,75550,2249,212,9,true,true,false,41186,99,34364
 St. Mary's College of Maryland,58.9,79.5,8.8,0.7,EA,47285,1432,9,1,false,true,false,9556,67,37729
 St. Olaf College,66.3,49.5,38.2,1.3,"ED II, EA",65010,2909,291,10,true,true,false,49130,100,15880
-Stanford University,0,0,0,0,REA,78218,6805,679,10,true,true,false,68033,36,10185
 Stonehill College,0,0,0,0,,65762,0,0,0,false,false,false,0,0,65762
 Swarthmore College,23.8,7.7,63.4,3.1,ED II,73689,1435,216,15,true,false,false,61480,30,12209
 Syracuse University,0,0,0,0,,75652,0,0,0,false,false,false,0,0,75652
@@ -182,7 +178,6 @@ Wheaton College (MA),76.0,77.1,20.7,1.0,"ED II, EA",72744,1654,91,6,true,true,fa
 Whitman College,72.0,53.4,51.7,1.3,ED II,66408,1288,100,8,true,true,false,0,0,66408
 Willamette University,0,0,0,0,,69598,0,10,0,false,false,false,0,0,69598
 Williams College,39.3,13.2,51.7,3.0,,66540,1917,166,9,true,false,false,59598,72,6942
-Yale University,"7,939",837,10.5,"",SCEA,79370,4696,472,10,true,false,false,67048,56,12322
 Yeshiva University,0,0,0,0,,65875,2555,177,7,true,true,false,44186,85,21689
 Albany College of Pharmacy & Health Sciences,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
 Assumption College,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
@@ -207,12 +202,10 @@ Long Island University,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
 Longwood University,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
 Maryland Institute College of Art,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
 Marymount Manhattan College,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
-Massachusetts Institite of Technology,"15,036",719,4.8,"10,656",EA,0,0,0,0,false,false,false,0,0,0
 Merrimack College,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
 Miami University of Ohio,96.1,91.9,13.8,1.0,EA,0,0,0,0,false,false,false,0,0,0
 Nazareth College,89.8,74.4,58.8,1.2,ED II,0,0,0,0,false,false,false,0,0,0
 Nebraska Wesleyan University,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
-Notre Dame University,"7,744","1,673",21.6,"1,712",REA,0,0,0,0,false,false,false,0,0,0
 Pennsylvania Academy of Fine Arts,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
 Ramapo College of New Jersey,94.7,66.4,12.7,1.4,EA,0,0,0,0,false,false,false,0,0,0
 Saint Joseph's University,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
@@ -233,7 +226,6 @@ Susquehanna University,82.0,87.4,8.7,0.9,EA,0,0,0,0,false,false,false,0,0,0
 Sweetbriar College,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
 The College of New Jersey,68.5,57.4,29.9,1.2,ED II,0,0,0,0,false,false,false,0,0,0
 University of Chicago,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
-University of Michigan,0,0,0,0,EA,0,0,0,0,false,false,false,0,0,0
 Ursinus College,0,0,0,0,,0,0,0,0,false,false,false,0,0,0
 Washington and Lee University,52.6,21.3,58.8,2.5,ED II,0,0,0,0,false,false,false,0,0,0
 Washington College,0,0,0,0,"ED II, EA",0,0,0,0,false,false,false,0,0,0
