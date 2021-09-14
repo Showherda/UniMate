@@ -14,7 +14,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 25227,
-    "Percentage of International Noncitizens Receiving Aid": 67
+    "Percentage of International Noncitizens Receiving Aid": 67,
+    "Estimated Family Contribution": 34218
   },
   {
     "Institution": "Alfred University",
@@ -31,7 +32,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 11954,
-    "Percentage of International Noncitizens Receiving Aid": 26
+    "Percentage of International Noncitizens Receiving Aid": 26,
+    "Estimated Family Contribution": 39458
   },
   {
     "Institution": "Allegheny College",
@@ -48,7 +50,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 34569,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 32991
   },
   {
     "Institution": "American University",
@@ -65,7 +68,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 12731,
-    "Percentage of International Noncitizens Receiving Aid": 6
+    "Percentage of International Noncitizens Receiving Aid": 6,
+    "Estimated Family Contribution": 56635
   },
   {
     "Institution": "Amherst College",
@@ -82,7 +86,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 68518,
-    "Percentage of International Noncitizens Receiving Aid": 75
+    "Percentage of International Noncitizens Receiving Aid": 75,
+    "Estimated Family Contribution": 11082
   },
   {
     "Institution": "Antioch College",
@@ -99,7 +104,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 35000,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 15383
   },
   {
     "Institution": "Austin College",
@@ -116,7 +122,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 26557,
-    "Percentage of International Noncitizens Receiving Aid": 57
+    "Percentage of International Noncitizens Receiving Aid": 57,
+    "Estimated Family Contribution": 31435
   },
   {
     "Institution": "Babson College",
@@ -133,7 +140,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 74902
   },
   {
     "Institution": "Bard College",
@@ -150,7 +158,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 46942,
-    "Percentage of International Noncitizens Receiving Aid": 55
+    "Percentage of International Noncitizens Receiving Aid": 55,
+    "Estimated Family Contribution": 29832
   },
   {
     "Institution": "Barnard College",
@@ -167,7 +176,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 64062,
-    "Percentage of International Noncitizens Receiving Aid": 8
+    "Percentage of International Noncitizens Receiving Aid": 8,
+    "Estimated Family Contribution": 13793
   },
   {
     "Institution": "Bates College",
@@ -184,7 +194,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 63111,
-    "Percentage of International Noncitizens Receiving Aid": 52
+    "Percentage of International Noncitizens Receiving Aid": 52,
+    "Estimated Family Contribution": 12569
   },
   {
     "Institution": "Baylor University",
@@ -201,7 +212,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 19184,
-    "Percentage of International Noncitizens Receiving Aid": 63
+    "Percentage of International Noncitizens Receiving Aid": 63,
+    "Estimated Family Contribution": 47896
   },
   {
     "Institution": "Beloit College",
@@ -218,7 +230,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 39642,
-    "Percentage of International Noncitizens Receiving Aid": 99
+    "Percentage of International Noncitizens Receiving Aid": 99,
+    "Estimated Family Contribution": 25788
   },
   {
     "Institution": "Bennington College",
@@ -235,7 +248,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 46154,
-    "Percentage of International Noncitizens Receiving Aid": 108
+    "Percentage of International Noncitizens Receiving Aid": 108,
+    "Estimated Family Contribution": 32610
   },
   {
     "Institution": "Bentley University",
@@ -252,7 +266,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 73985
   },
   {
     "Institution": "Birmingham-Southern College",
@@ -269,7 +284,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 17810,
-    "Percentage of International Noncitizens Receiving Aid": 71
+    "Percentage of International Noncitizens Receiving Aid": 71,
+    "Estimated Family Contribution": 18020
   },
   {
     "Institution": "Boston College",
@@ -286,7 +302,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 78572
   },
   {
     "Institution": "Boston University",
@@ -303,7 +320,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 36344,
-    "Percentage of International Noncitizens Receiving Aid": 6
+    "Percentage of International Noncitizens Receiving Aid": 6,
+    "Estimated Family Contribution": 41318
   },
   {
     "Institution": "Bowdoin College",
@@ -320,7 +338,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 55012,
-    "Percentage of International Noncitizens Receiving Aid": 50
+    "Percentage of International Noncitizens Receiving Aid": 50,
+    "Estimated Family Contribution": 16868
   },
   {
     "Institution": "Brandeis University",
@@ -337,7 +356,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 46036,
-    "Percentage of International Noncitizens Receiving Aid": 12
+    "Percentage of International Noncitizens Receiving Aid": 12,
+    "Estimated Family Contribution": 30159
   },
   {
     "Institution": "Brown University",
@@ -354,7 +374,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 64270,
-    "Percentage of International Noncitizens Receiving Aid": 16
+    "Percentage of International Noncitizens Receiving Aid": 16,
+    "Estimated Family Contribution": 16178
   },
   {
     "Institution": "Bryant University",
@@ -371,7 +392,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 65706
   },
   {
     "Institution": "Bryn Mawr College",
@@ -388,7 +410,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 59313,
-    "Percentage of International Noncitizens Receiving Aid": 39
+    "Percentage of International Noncitizens Receiving Aid": 39,
+    "Estimated Family Contribution": 14227
   },
   {
     "Institution": "Bucknell University",
@@ -405,7 +428,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 52347,
-    "Percentage of International Noncitizens Receiving Aid": 47
+    "Percentage of International Noncitizens Receiving Aid": 47,
+    "Estimated Family Contribution": 23575
   },
   {
     "Institution": "Carleton College",
@@ -422,7 +446,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 49882,
-    "Percentage of International Noncitizens Receiving Aid": 39
+    "Percentage of International Noncitizens Receiving Aid": 39,
+    "Estimated Family Contribution": 27218
   },
   {
     "Institution": "Carnegie Mellon University",
@@ -439,7 +464,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 76760
   },
   {
     "Institution": "Case Western Reserve University",
@@ -456,7 +482,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 33570,
-    "Percentage of International Noncitizens Receiving Aid": 23
+    "Percentage of International Noncitizens Receiving Aid": 23,
+    "Estimated Family Contribution": 38558
   },
   {
     "Institution": "Catholic University",
@@ -473,7 +500,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Centre College",
@@ -490,7 +518,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 58710
   },
   {
     "Institution": "Champlain College",
@@ -507,7 +536,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 61644
   },
   {
     "Institution": "Chapman University",
@@ -524,7 +554,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 15506,
-    "Percentage of International Noncitizens Receiving Aid": 55
+    "Percentage of International Noncitizens Receiving Aid": 55,
+    "Estimated Family Contribution": 62766
   },
   {
     "Institution": "Christopher Newport University",
@@ -541,7 +572,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5625,
-    "Percentage of International Noncitizens Receiving Aid": 44
+    "Percentage of International Noncitizens Receiving Aid": 44,
+    "Estimated Family Contribution": 38979
   },
   {
     "Institution": "Claremont McKenna College",
@@ -558,7 +590,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 52570,
-    "Percentage of International Noncitizens Receiving Aid": 16
+    "Percentage of International Noncitizens Receiving Aid": 16,
+    "Estimated Family Contribution": 23905
   },
   {
     "Institution": "Clark University",
@@ -575,7 +608,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 24992,
-    "Percentage of International Noncitizens Receiving Aid": 78
+    "Percentage of International Noncitizens Receiving Aid": 78,
+    "Estimated Family Contribution": 35160
   },
   {
     "Institution": "Clarkson University",
@@ -592,7 +626,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 26273,
-    "Percentage of International Noncitizens Receiving Aid": 90
+    "Percentage of International Noncitizens Receiving Aid": 90,
+    "Estimated Family Contribution": 45997
   },
   {
     "Institution": "Colby College",
@@ -609,7 +644,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 54300,
-    "Percentage of International Noncitizens Receiving Aid": 51
+    "Percentage of International Noncitizens Receiving Aid": 51,
+    "Estimated Family Contribution": 22125
   },
   {
     "Institution": "Colgate University",
@@ -626,7 +662,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 63059,
-    "Percentage of International Noncitizens Receiving Aid": 38
+    "Percentage of International Noncitizens Receiving Aid": 38,
+    "Estimated Family Contribution": 14521
   },
   {
     "Institution": "College of Charleston",
@@ -643,7 +680,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 51483
   },
   {
     "Institution": "College of the Atlantic",
@@ -660,7 +698,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 47161,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 7808
   },
   {
     "Institution": "College of the Holy Cross",
@@ -677,7 +716,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 34186,
-    "Percentage of International Noncitizens Receiving Aid": 6
+    "Percentage of International Noncitizens Receiving Aid": 6,
+    "Estimated Family Contribution": 38044
   },
   {
     "Institution": "College of William and Mary",
@@ -694,7 +734,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 63260
   },
   {
     "Institution": "College of Wooster",
@@ -711,7 +752,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 36263,
-    "Percentage of International Noncitizens Receiving Aid": 97
+    "Percentage of International Noncitizens Receiving Aid": 97,
+    "Estimated Family Contribution": 32387
   },
   {
     "Institution": "Colorado College",
@@ -728,7 +770,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 45253,
-    "Percentage of International Noncitizens Receiving Aid": 71
+    "Percentage of International Noncitizens Receiving Aid": 71,
+    "Estimated Family Contribution": 32827
   },
   {
     "Institution": "Columbia University",
@@ -745,7 +788,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 77603
   },
   {
     "Institution": "Connecticut College",
@@ -762,7 +806,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 50598,
-    "Percentage of International Noncitizens Receiving Aid": 93
+    "Percentage of International Noncitizens Receiving Aid": 93,
+    "Estimated Family Contribution": 26717
   },
   {
     "Institution": "Cooper Union",
@@ -779,7 +824,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 68305
   },
   {
     "Institution": "Cornell University",
@@ -796,7 +842,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 65286,
-    "Percentage of International Noncitizens Receiving Aid": 14
+    "Percentage of International Noncitizens Receiving Aid": 14,
+    "Estimated Family Contribution": 13706
   },
   {
     "Institution": "Daemen College",
@@ -813,7 +860,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 11055,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 34915
   },
   {
     "Institution": "Dartmouth College",
@@ -830,7 +878,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 64377,
-    "Percentage of International Noncitizens Receiving Aid": 64
+    "Percentage of International Noncitizens Receiving Aid": 64,
+    "Estimated Family Contribution": 15807
   },
   {
     "Institution": "Davidson College",
@@ -847,7 +896,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 45937,
-    "Percentage of International Noncitizens Receiving Aid": 50
+    "Percentage of International Noncitizens Receiving Aid": 50,
+    "Estimated Family Contribution": 27238
   },
   {
     "Institution": "Denison University",
@@ -864,7 +914,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 28772,
-    "Percentage of International Noncitizens Receiving Aid": 99
+    "Percentage of International Noncitizens Receiving Aid": 99,
+    "Estimated Family Contribution": 44048
   },
   {
     "Institution": "DePauw University",
@@ -881,7 +932,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 32104,
-    "Percentage of International Noncitizens Receiving Aid": 105
+    "Percentage of International Noncitizens Receiving Aid": 105,
+    "Estimated Family Contribution": 36794
   },
   {
     "Institution": "Dickinson College",
@@ -898,7 +950,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 42795,
-    "Percentage of International Noncitizens Receiving Aid": 79
+    "Percentage of International Noncitizens Receiving Aid": 79,
+    "Estimated Family Contribution": 31652
   },
   {
     "Institution": "Drew University",
@@ -915,7 +968,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13329,
-    "Percentage of International Noncitizens Receiving Aid": 76
+    "Percentage of International Noncitizens Receiving Aid": 76,
+    "Estimated Family Contribution": 45536
   },
   {
     "Institution": "Drexel University",
@@ -932,7 +986,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 26613,
-    "Percentage of International Noncitizens Receiving Aid": 97
+    "Percentage of International Noncitizens Receiving Aid": 97,
+    "Estimated Family Contribution": 48533
   },
   {
     "Institution": "Duke University",
@@ -949,7 +1004,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 77069
   },
   {
     "Institution": "Earlham College",
@@ -966,7 +1022,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 62788
   },
   {
     "Institution": "Elon University",
@@ -983,7 +1040,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 28523,
-    "Percentage of International Noncitizens Receiving Aid": 50
+    "Percentage of International Noncitizens Receiving Aid": 50,
+    "Estimated Family Contribution": 26039
   },
   {
     "Institution": "Emerson College",
@@ -1000,7 +1058,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 74526
   },
   {
     "Institution": "Emory University/Oxford College",
@@ -1017,7 +1076,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 52404,
-    "Percentage of International Noncitizens Receiving Aid": 8
+    "Percentage of International Noncitizens Receiving Aid": 8,
+    "Estimated Family Contribution": 20480
   },
   {
     "Institution": "Fairfield University",
@@ -1034,7 +1094,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 46435,
-    "Percentage of International Noncitizens Receiving Aid": 96
+    "Percentage of International Noncitizens Receiving Aid": 96,
+    "Estimated Family Contribution": 23380
   },
   {
     "Institution": "Fairleigh Dickinson University",
@@ -1051,7 +1112,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 63154
   },
   {
     "Institution": "Flagler College",
@@ -1068,7 +1130,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 37480
   },
   {
     "Institution": "Fordham University",
@@ -1085,7 +1148,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 29078,
-    "Percentage of International Noncitizens Receiving Aid": 35
+    "Percentage of International Noncitizens Receiving Aid": 35,
+    "Estimated Family Contribution": 50138
   },
   {
     "Institution": "Furman University",
@@ -1102,7 +1166,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 39386,
-    "Percentage of International Noncitizens Receiving Aid": 92
+    "Percentage of International Noncitizens Receiving Aid": 92,
+    "Estimated Family Contribution": 28848
   },
   {
     "Institution": "George Washington University",
@@ -1119,7 +1184,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22322,
-    "Percentage of International Noncitizens Receiving Aid": 20
+    "Percentage of International Noncitizens Receiving Aid": 20,
+    "Estimated Family Contribution": 53954
   },
   {
     "Institution": "Georgetown University",
@@ -1136,7 +1202,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 63522,
-    "Percentage of International Noncitizens Receiving Aid": 3
+    "Percentage of International Noncitizens Receiving Aid": 3,
+    "Estimated Family Contribution": 15232
   },
   {
     "Institution": "Gettysburg College",
@@ -1153,7 +1220,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 30608,
-    "Percentage of International Noncitizens Receiving Aid": 99
+    "Percentage of International Noncitizens Receiving Aid": 99,
+    "Estimated Family Contribution": 43852
   },
   {
     "Institution": "Goucher College",
@@ -1170,7 +1238,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 29226,
-    "Percentage of International Noncitizens Receiving Aid": 85
+    "Percentage of International Noncitizens Receiving Aid": 85,
+    "Estimated Family Contribution": 36690
   },
   {
     "Institution": "Grinnell College",
@@ -1187,7 +1256,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 27411,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 46233
   },
   {
     "Institution": "Hamilton College",
@@ -1204,7 +1274,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 60941,
-    "Percentage of International Noncitizens Receiving Aid": 40
+    "Percentage of International Noncitizens Receiving Aid": 40,
+    "Estimated Family Contribution": 13729
   },
   {
     "Institution": "Hamline University",
@@ -1221,7 +1292,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 24208,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 33637
   },
   {
     "Institution": "Hampshire College",
@@ -1238,7 +1310,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 27961,
-    "Percentage of International Noncitizens Receiving Aid": 87
+    "Percentage of International Noncitizens Receiving Aid": 87,
+    "Estimated Family Contribution": 39727
   },
   {
     "Institution": "Hartwick College",
@@ -1255,7 +1328,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 62989
   },
   {
     "Institution": "Harvard University",
@@ -1272,7 +1346,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 66761,
-    "Percentage of International Noncitizens Receiving Aid": 102
+    "Percentage of International Noncitizens Receiving Aid": 102,
+    "Estimated Family Contribution": 9130
   },
   {
     "Institution": "Harvey Mudd College",
@@ -1289,7 +1364,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 43375,
-    "Percentage of International Noncitizens Receiving Aid": 26
+    "Percentage of International Noncitizens Receiving Aid": 26,
+    "Estimated Family Contribution": 36164
   },
   {
     "Institution": "Haverford College",
@@ -1306,7 +1382,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 69234,
-    "Percentage of International Noncitizens Receiving Aid": 32
+    "Percentage of International Noncitizens Receiving Aid": 32,
+    "Estimated Family Contribution": 9656
   },
   {
     "Institution": "High Point University",
@@ -1323,7 +1400,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 57268
   },
   {
     "Institution": "Hillsdale College",
@@ -1340,7 +1418,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 45592
   },
   {
     "Institution": "Hobart and William Smith Colleges",
@@ -1357,7 +1436,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 36778,
-    "Percentage of International Noncitizens Receiving Aid": 98
+    "Percentage of International Noncitizens Receiving Aid": 98,
+    "Estimated Family Contribution": 39748
   },
   {
     "Institution": "Hollins University",
@@ -1374,7 +1454,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 41452,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 15958
   },
   {
     "Institution": "Howard University",
@@ -1391,7 +1472,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 26654,
-    "Percentage of International Noncitizens Receiving Aid": 61
+    "Percentage of International Noncitizens Receiving Aid": 61,
+    "Estimated Family Contribution": 22596
   },
   {
     "Institution": "Ithaca College",
@@ -1408,7 +1490,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 32678,
-    "Percentage of International Noncitizens Receiving Aid": 94
+    "Percentage of International Noncitizens Receiving Aid": 94,
+    "Estimated Family Contribution": 32849
   },
   {
     "Institution": "Juniata College",
@@ -1425,7 +1508,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 30322,
-    "Percentage of International Noncitizens Receiving Aid": 105
+    "Percentage of International Noncitizens Receiving Aid": 105,
+    "Estimated Family Contribution": 34153
   },
   {
     "Institution": "Kalamazoo College",
@@ -1442,7 +1526,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 38421,
-    "Percentage of International Noncitizens Receiving Aid": 97
+    "Percentage of International Noncitizens Receiving Aid": 97,
+    "Estimated Family Contribution": 27847
   },
   {
     "Institution": "Kenyon College",
@@ -1459,7 +1544,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 58457,
-    "Percentage of International Noncitizens Receiving Aid": 68
+    "Percentage of International Noncitizens Receiving Aid": 68,
+    "Estimated Family Contribution": 13003
   },
   {
     "Institution": "Knox College",
@@ -1476,7 +1562,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 32813,
-    "Percentage of International Noncitizens Receiving Aid": 98
+    "Percentage of International Noncitizens Receiving Aid": 98,
+    "Estimated Family Contribution": 29231
   },
   {
     "Institution": "Lafayette College",
@@ -1493,7 +1580,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 54744,
-    "Percentage of International Noncitizens Receiving Aid": 50
+    "Percentage of International Noncitizens Receiving Aid": 50,
+    "Estimated Family Contribution": 19264
   },
   {
     "Institution": "Lake Forest College",
@@ -1510,7 +1598,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 35100,
-    "Percentage of International Noncitizens Receiving Aid": 104
+    "Percentage of International Noncitizens Receiving Aid": 104,
+    "Estimated Family Contribution": 29460
   },
   {
     "Institution": "Lawrence University",
@@ -1527,7 +1616,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 32701,
-    "Percentage of International Noncitizens Receiving Aid": 99
+    "Percentage of International Noncitizens Receiving Aid": 99,
+    "Estimated Family Contribution": 31559
   },
   {
     "Institution": "Lehigh University",
@@ -1544,7 +1634,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 33823,
-    "Percentage of International Noncitizens Receiving Aid": 40
+    "Percentage of International Noncitizens Receiving Aid": 40,
+    "Estimated Family Contribution": 38242
   },
   {
     "Institution": "Lewis & Clark College",
@@ -1561,7 +1652,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 46003,
-    "Percentage of International Noncitizens Receiving Aid": 94
+    "Percentage of International Noncitizens Receiving Aid": 94,
+    "Estimated Family Contribution": 25689
   },
   {
     "Institution": "Loyola Marymount University",
@@ -1578,7 +1670,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 6854,
-    "Percentage of International Noncitizens Receiving Aid": 38
+    "Percentage of International Noncitizens Receiving Aid": 38,
+    "Estimated Family Contribution": 64404
   },
   {
     "Institution": "Lycoming College",
@@ -1595,7 +1688,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 31606,
-    "Percentage of International Noncitizens Receiving Aid": 87
+    "Percentage of International Noncitizens Receiving Aid": 87,
+    "Estimated Family Contribution": 27988
   },
   {
     "Institution": "Macalester College",
@@ -1612,7 +1706,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 49157,
-    "Percentage of International Noncitizens Receiving Aid": 71
+    "Percentage of International Noncitizens Receiving Aid": 71,
+    "Estimated Family Contribution": 24614
   },
   {
     "Institution": "Manhattan College",
@@ -1629,7 +1724,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 66560
   },
   {
     "Institution": "Marist College",
@@ -1646,7 +1742,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 24263,
-    "Percentage of International Noncitizens Receiving Aid": 103
+    "Percentage of International Noncitizens Receiving Aid": 103,
+    "Estimated Family Contribution": 37532
   },
   {
     "Institution": "McDaniel College",
@@ -1663,7 +1760,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 42201,
-    "Percentage of International Noncitizens Receiving Aid": 10
+    "Percentage of International Noncitizens Receiving Aid": 10,
+    "Estimated Family Contribution": 18841
   },
   {
     "Institution": "Meredith College",
@@ -1680,7 +1778,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 54388
   },
   {
     "Institution": "Middlebury College",
@@ -1697,7 +1796,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 63212,
-    "Percentage of International Noncitizens Receiving Aid": 55
+    "Percentage of International Noncitizens Receiving Aid": 55,
+    "Estimated Family Contribution": 13734
   },
   {
     "Institution": "Morehouse College",
@@ -1714,7 +1814,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 49700
   },
   {
     "Institution": "Mount Holyoke College",
@@ -1731,7 +1832,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 32532,
-    "Percentage of International Noncitizens Receiving Aid": 40
+    "Percentage of International Noncitizens Receiving Aid": 40,
+    "Estimated Family Contribution": 42106
   },
   {
     "Institution": "Muhlenberg College",
@@ -1748,7 +1850,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 28904,
-    "Percentage of International Noncitizens Receiving Aid": 72
+    "Percentage of International Noncitizens Receiving Aid": 72,
+    "Estimated Family Contribution": 39407
   },
   {
     "Institution": "New York University",
@@ -1765,7 +1868,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13348,
-    "Percentage of International Noncitizens Receiving Aid": 15
+    "Percentage of International Noncitizens Receiving Aid": 15,
+    "Estimated Family Contribution": 64284
   },
   {
     "Institution": "Northeastern University",
@@ -1782,7 +1886,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 18787,
-    "Percentage of International Noncitizens Receiving Aid": 17
+    "Percentage of International Noncitizens Receiving Aid": 17,
+    "Estimated Family Contribution": 56945
   },
   {
     "Institution": "Northwestern University",
@@ -1799,7 +1904,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 55498,
-    "Percentage of International Noncitizens Receiving Aid": 28
+    "Percentage of International Noncitizens Receiving Aid": 28,
+    "Estimated Family Contribution": 25785
   },
   {
     "Institution": "Nova Southeastern University",
@@ -1816,7 +1922,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13325,
-    "Percentage of International Noncitizens Receiving Aid": 75
+    "Percentage of International Noncitizens Receiving Aid": 75,
+    "Estimated Family Contribution": 41587
   },
   {
     "Institution": "Oberlin College and Conservatory",
@@ -1833,7 +1940,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 40241,
-    "Percentage of International Noncitizens Receiving Aid": 57
+    "Percentage of International Noncitizens Receiving Aid": 57,
+    "Estimated Family Contribution": 39055
   },
   {
     "Institution": "Occidental College",
@@ -1850,7 +1958,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22663,
-    "Percentage of International Noncitizens Receiving Aid": 35
+    "Percentage of International Noncitizens Receiving Aid": 35,
+    "Estimated Family Contribution": 53253
   },
   {
     "Institution": "Ohio Wesleyan University",
@@ -1867,7 +1976,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 27729,
-    "Percentage of International Noncitizens Receiving Aid": 87
+    "Percentage of International Noncitizens Receiving Aid": 87,
+    "Estimated Family Contribution": 35547
   },
   {
     "Institution": "Pace University",
@@ -1884,7 +1994,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 19609,
-    "Percentage of International Noncitizens Receiving Aid": 58
+    "Percentage of International Noncitizens Receiving Aid": 58,
+    "Estimated Family Contribution": 50195
   },
   {
     "Institution": "Pitzer College",
@@ -1901,7 +2012,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 59782,
-    "Percentage of International Noncitizens Receiving Aid": 27
+    "Percentage of International Noncitizens Receiving Aid": 27,
+    "Estimated Family Contribution": 17026
   },
   {
     "Institution": "Pomona College",
@@ -1918,7 +2030,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 66125,
-    "Percentage of International Noncitizens Receiving Aid": 49
+    "Percentage of International Noncitizens Receiving Aid": 49,
+    "Estimated Family Contribution": 8969
   },
   {
     "Institution": "Princeton University",
@@ -1935,7 +2048,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 50848,
-    "Percentage of International Noncitizens Receiving Aid": 71
+    "Percentage of International Noncitizens Receiving Aid": 71,
+    "Estimated Family Contribution": 17196
   },
   {
     "Institution": "Providence College",
@@ -1952,7 +2066,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 63227,
-    "Percentage of International Noncitizens Receiving Aid": 97
+    "Percentage of International Noncitizens Receiving Aid": 97,
+    "Estimated Family Contribution": 7718
   },
   {
     "Institution": "Queens University of Charlotte",
@@ -1969,7 +2084,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 29301,
-    "Percentage of International Noncitizens Receiving Aid": 89
+    "Percentage of International Noncitizens Receiving Aid": 89,
+    "Estimated Family Contribution": 23806
   },
   {
     "Institution": "Quinnipiac University",
@@ -1986,7 +2102,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 69000
   },
   {
     "Institution": "Reed College",
@@ -2003,7 +2120,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 49678,
-    "Percentage of International Noncitizens Receiving Aid": 25
+    "Percentage of International Noncitizens Receiving Aid": 25,
+    "Estimated Family Contribution": 28422
   },
   {
     "Institution": "Rensselaer Polytechnic Institute",
@@ -2020,7 +2138,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 75824
   },
   {
     "Institution": "Rhode Island School of Design",
@@ -2037,7 +2156,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 75520
   },
   {
     "Institution": "Rhodes College",
@@ -2054,7 +2174,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 42616,
-    "Percentage of International Noncitizens Receiving Aid": 98
+    "Percentage of International Noncitizens Receiving Aid": 98,
+    "Estimated Family Contribution": 23854
   },
   {
     "Institution": "Rice University",
@@ -2071,7 +2192,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 55195,
-    "Percentage of International Noncitizens Receiving Aid": 23
+    "Percentage of International Noncitizens Receiving Aid": 23,
+    "Estimated Family Contribution": 14362
   },
   {
     "Institution": "Roanoke College",
@@ -2088,7 +2210,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 33445,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 31405
   },
   {
     "Institution": "Rochester Institute of Technology",
@@ -2105,7 +2228,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 67260
   },
   {
     "Institution": "Rollins College",
@@ -2122,7 +2246,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 31581,
-    "Percentage of International Noncitizens Receiving Aid": 92
+    "Percentage of International Noncitizens Receiving Aid": 92,
+    "Estimated Family Contribution": 40975
   },
   {
     "Institution": "Sacred Heart University",
@@ -2139,7 +2264,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 35084,
-    "Percentage of International Noncitizens Receiving Aid": 76
+    "Percentage of International Noncitizens Receiving Aid": 76,
+    "Estimated Family Contribution": 29608
   },
   {
     "Institution": "Saint Anselm College",
@@ -2156,7 +2282,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 38264,
-    "Percentage of International Noncitizens Receiving Aid": 167
+    "Percentage of International Noncitizens Receiving Aid": 167,
+    "Estimated Family Contribution": 23980
   },
   {
     "Institution": "Saint Mary's College - Indiana",
@@ -2173,7 +2300,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 30328,
-    "Percentage of International Noncitizens Receiving Aid": 83
+    "Percentage of International Noncitizens Receiving Aid": 83,
+    "Estimated Family Contribution": 31762
   },
   {
     "Institution": "Salisbury University",
@@ -2190,7 +2318,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 4535,
-    "Percentage of International Noncitizens Receiving Aid": 75
+    "Percentage of International Noncitizens Receiving Aid": 75,
+    "Estimated Family Contribution": 31835
   },
   {
     "Institution": "Santa Clara University",
@@ -2207,7 +2336,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 30657,
-    "Percentage of International Noncitizens Receiving Aid": 20
+    "Percentage of International Noncitizens Receiving Aid": 20,
+    "Estimated Family Contribution": 42327
   },
   {
     "Institution": "Sarah Lawrence College",
@@ -2224,7 +2354,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 74740
   },
   {
     "Institution": "Scripps College",
@@ -2241,7 +2372,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 41161,
-    "Percentage of International Noncitizens Receiving Aid": 38
+    "Percentage of International Noncitizens Receiving Aid": 38,
+    "Estimated Family Contribution": 37113
   },
   {
     "Institution": "Siena College",
@@ -2258,7 +2390,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 59829
   },
   {
     "Institution": "Skidmore College",
@@ -2275,7 +2408,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 70000,
-    "Percentage of International Noncitizens Receiving Aid": 35
+    "Percentage of International Noncitizens Receiving Aid": 35,
+    "Estimated Family Contribution": 6630
   },
   {
     "Institution": "Smith College",
@@ -2292,7 +2426,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 55548,
-    "Percentage of International Noncitizens Receiving Aid": 41
+    "Percentage of International Noncitizens Receiving Aid": 41,
+    "Estimated Family Contribution": 21294
   },
   {
     "Institution": "Southern Methodist University",
@@ -2309,7 +2444,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 35286,
-    "Percentage of International Noncitizens Receiving Aid": 60
+    "Percentage of International Noncitizens Receiving Aid": 60,
+    "Estimated Family Contribution": 43764
   },
   {
     "Institution": "Southwestern University",
@@ -2326,7 +2462,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22716,
-    "Percentage of International Noncitizens Receiving Aid": 108
+    "Percentage of International Noncitizens Receiving Aid": 108,
+    "Estimated Family Contribution": 36864
   },
   {
     "Institution": "Spelman College",
@@ -2343,7 +2480,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 21705,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 33035
   },
   {
     "Institution": "St. John's College - Annapolis",
@@ -2360,7 +2498,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 50701
   },
   {
     "Institution": "St. John's College - Santa Fe",
@@ -2377,7 +2516,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 28699,
-    "Percentage of International Noncitizens Receiving Aid": 89
+    "Percentage of International Noncitizens Receiving Aid": 89,
+    "Estimated Family Contribution": 22391
   },
   {
     "Institution": "St. Lawrence University",
@@ -2394,7 +2534,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 41186,
-    "Percentage of International Noncitizens Receiving Aid": 99
+    "Percentage of International Noncitizens Receiving Aid": 99,
+    "Estimated Family Contribution": 34364
   },
   {
     "Institution": "St. Mary's College of Maryland",
@@ -2411,7 +2552,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9556,
-    "Percentage of International Noncitizens Receiving Aid": 67
+    "Percentage of International Noncitizens Receiving Aid": 67,
+    "Estimated Family Contribution": 37729
   },
   {
     "Institution": "St. Olaf College",
@@ -2428,7 +2570,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 49130,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 15880
   },
   {
     "Institution": "Stanford University",
@@ -2445,7 +2588,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 68033,
-    "Percentage of International Noncitizens Receiving Aid": 36
+    "Percentage of International Noncitizens Receiving Aid": 36,
+    "Estimated Family Contribution": 10185
   },
   {
     "Institution": "Stonehill College",
@@ -2462,7 +2606,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 65762
   },
   {
     "Institution": "Swarthmore College",
@@ -2479,7 +2624,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 61480,
-    "Percentage of International Noncitizens Receiving Aid": 30
+    "Percentage of International Noncitizens Receiving Aid": 30,
+    "Estimated Family Contribution": 12209
   },
   {
     "Institution": "Syracuse University",
@@ -2496,7 +2642,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 75652
   },
   {
     "Institution": "Texas Christian University",
@@ -2513,7 +2660,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 38404,
-    "Percentage of International Noncitizens Receiving Aid": 78
+    "Percentage of International Noncitizens Receiving Aid": 78,
+    "Estimated Family Contribution": 33424
   },
   {
     "Institution": "Trinity College",
@@ -2530,7 +2678,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 60526,
-    "Percentage of International Noncitizens Receiving Aid": 55
+    "Percentage of International Noncitizens Receiving Aid": 55,
+    "Estimated Family Contribution": 16324
   },
   {
     "Institution": "Trinity University",
@@ -2547,7 +2696,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 27961,
-    "Percentage of International Noncitizens Receiving Aid": 98
+    "Percentage of International Noncitizens Receiving Aid": 98,
+    "Estimated Family Contribution": 34635
   },
   {
     "Institution": "Tufts University",
@@ -2564,7 +2714,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 79000
   },
   {
     "Institution": "Tulane University",
@@ -2581,7 +2732,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 34491,
-    "Percentage of International Noncitizens Receiving Aid": 34
+    "Percentage of International Noncitizens Receiving Aid": 34,
+    "Estimated Family Contribution": 44189
   },
   {
     "Institution": "Union College",
@@ -2598,7 +2750,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 42490,
-    "Percentage of International Noncitizens Receiving Aid": 63
+    "Percentage of International Noncitizens Receiving Aid": 63,
+    "Estimated Family Contribution": 33500
   },
   {
     "Institution": "University of Denver",
@@ -2615,7 +2768,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 32456,
-    "Percentage of International Noncitizens Receiving Aid": 80
+    "Percentage of International Noncitizens Receiving Aid": 80,
+    "Estimated Family Contribution": 39473
   },
   {
     "Institution": "University of Lynchburg",
@@ -2632,7 +2786,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 57268
   },
   {
     "Institution": "University of Mary Washington",
@@ -2649,7 +2804,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 46695
   },
   {
     "Institution": "University of Miami",
@@ -2666,7 +2822,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 36325,
-    "Percentage of International Noncitizens Receiving Aid": 24
+    "Percentage of International Noncitizens Receiving Aid": 24,
+    "Estimated Family Contribution": 37387
   },
   {
     "Institution": "University of New Haven",
@@ -2683,7 +2840,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 15621,
-    "Percentage of International Noncitizens Receiving Aid": 107
+    "Percentage of International Noncitizens Receiving Aid": 107,
+    "Estimated Family Contribution": -15621
   },
   {
     "Institution": "University of North Carolina - Asheville",
@@ -2700,7 +2858,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 18584,
-    "Percentage of International Noncitizens Receiving Aid": 85
+    "Percentage of International Noncitizens Receiving Aid": 85,
+    "Estimated Family Contribution": 19622
   },
   {
     "Institution": "University of Pennsylvania",
@@ -2717,7 +2876,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 59405,
-    "Percentage of International Noncitizens Receiving Aid": 28
+    "Percentage of International Noncitizens Receiving Aid": 28,
+    "Estimated Family Contribution": 21705
   },
   {
     "Institution": "University of Puget Sound",
@@ -2734,7 +2894,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 69661
   },
   {
     "Institution": "University of Redlands",
@@ -2751,7 +2912,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 71624
   },
   {
     "Institution": "University of Richmond",
@@ -2768,7 +2930,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 46156,
-    "Percentage of International Noncitizens Receiving Aid": 59
+    "Percentage of International Noncitizens Receiving Aid": 59,
+    "Estimated Family Contribution": 26294
   },
   {
     "Institution": "University of Rochester",
@@ -2785,7 +2948,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 77995
   },
   {
     "Institution": "University of San Francisco",
@@ -2802,7 +2966,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 73872
   },
   {
     "Institution": "University of Virginia",
@@ -2819,7 +2984,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 69547
   },
   {
     "Institution": "Utica College",
@@ -2836,7 +3002,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5163,
-    "Percentage of International Noncitizens Receiving Aid": 69
+    "Percentage of International Noncitizens Receiving Aid": 69,
+    "Estimated Family Contribution": 31830
   },
   {
     "Institution": "Vanderbilt University",
@@ -2853,7 +3020,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 58416,
-    "Percentage of International Noncitizens Receiving Aid": 25
+    "Percentage of International Noncitizens Receiving Aid": 25,
+    "Estimated Family Contribution": 17628
   },
   {
     "Institution": "Vassar College",
@@ -2870,7 +3038,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 54840,
-    "Percentage of International Noncitizens Receiving Aid": 36
+    "Percentage of International Noncitizens Receiving Aid": 36,
+    "Estimated Family Contribution": 23330
   },
   {
     "Institution": "Villanova University",
@@ -2887,7 +3056,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 44578,
-    "Percentage of International Noncitizens Receiving Aid": 71
+    "Percentage of International Noncitizens Receiving Aid": 71,
+    "Estimated Family Contribution": 31257
   },
   {
     "Institution": "Virginia Military Institute",
@@ -2904,7 +3074,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 14916,
-    "Percentage of International Noncitizens Receiving Aid": 16
+    "Percentage of International Noncitizens Receiving Aid": 16,
+    "Estimated Family Contribution": 45514
   },
   {
     "Institution": "Virginia Tech",
@@ -2921,7 +3092,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 46899
   },
   {
     "Institution": "Wabash College",
@@ -2938,7 +3110,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 38016,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 21634
   },
   {
     "Institution": "Wake Forest University",
@@ -2955,7 +3128,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 31338,
-    "Percentage of International Noncitizens Receiving Aid": 6
+    "Percentage of International Noncitizens Receiving Aid": 6,
+    "Estimated Family Contribution": 45940
   },
   {
     "Institution": "Warren Wilson College",
@@ -2972,7 +3146,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 53980
   },
   {
     "Institution": "Washington and Jefferson College",
@@ -2989,7 +3164,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 64593
   },
   {
     "Institution": "Washington University in St. Louis",
@@ -3006,7 +3182,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 63348,
-    "Percentage of International Noncitizens Receiving Aid": 9
+    "Percentage of International Noncitizens Receiving Aid": 9,
+    "Estimated Family Contribution": 16238
   },
   {
     "Institution": "Wellesley College",
@@ -3023,7 +3200,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 69660,
-    "Percentage of International Noncitizens Receiving Aid": 27
+    "Percentage of International Noncitizens Receiving Aid": 27,
+    "Estimated Family Contribution": 8610
   },
   {
     "Institution": "Wells College",
@@ -3040,7 +3218,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 48150
   },
   {
     "Institution": "Wesleyan University",
@@ -3057,7 +3236,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 69698,
-    "Percentage of International Noncitizens Receiving Aid": 26
+    "Percentage of International Noncitizens Receiving Aid": 26,
+    "Estimated Family Contribution": 9037
   },
   {
     "Institution": "Wheaton College (MA)",
@@ -3074,7 +3254,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 34392,
-    "Percentage of International Noncitizens Receiving Aid": 90
+    "Percentage of International Noncitizens Receiving Aid": 90,
+    "Estimated Family Contribution": 38352
   },
   {
     "Institution": "Whitman College",
@@ -3091,7 +3272,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 66408
   },
   {
     "Institution": "Willamette University",
@@ -3108,7 +3290,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 69598
   },
   {
     "Institution": "Williams College",
@@ -3125,14 +3308,15 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 59598,
-    "Percentage of International Noncitizens Receiving Aid": 72
+    "Percentage of International Noncitizens Receiving Aid": 72,
+    "Estimated Family Contribution": 6942
   },
   {
     "Institution": "Yale University",
     "ED Acceptance Rate": "7,939",
     "RD Acceptance Rate": 837,
     "Maximum Percent of Class Filled from ED": 10.5,
-    "ED to RD Acceptance Ratio": "fifty percent",
+    "ED to RD Acceptance Ratio": "",
     "Additional Admission Plans": "SCEA",
     "Total Cost of Attendance (out-of-state)": 79370,
     "Full-Time Undergraduates": 4696,
@@ -3142,7 +3326,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 67048,
-    "Percentage of International Noncitizens Receiving Aid": 56
+    "Percentage of International Noncitizens Receiving Aid": 56,
+    "Estimated Family Contribution": 12322
   },
   {
     "Institution": "Yeshiva University",
@@ -3159,7 +3344,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 44186,
-    "Percentage of International Noncitizens Receiving Aid": 85
+    "Percentage of International Noncitizens Receiving Aid": 85,
+    "Estimated Family Contribution": 21689
   },
   {
     "Institution": "Albany College of Pharmacy & Health Sciences",
@@ -3176,7 +3362,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Assumption College",
@@ -3193,7 +3380,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Augustana College (Illinois)",
@@ -3210,7 +3398,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Becker College",
@@ -3227,7 +3416,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Berry College",
@@ -3244,7 +3434,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Bridgewater College",
@@ -3261,7 +3452,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Coe College",
@@ -3278,7 +3470,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Columbia College Hollywood",
@@ -3295,7 +3488,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Florida Southern College",
@@ -3312,7 +3506,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Franklin and Marshall College",
@@ -3329,7 +3524,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Grove City College",
@@ -3346,7 +3542,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Guilford College",
@@ -3363,7 +3560,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Hampden-Sydney College",
@@ -3380,7 +3578,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Hanover College",
@@ -3397,7 +3596,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Hult International Business School",
@@ -3414,7 +3614,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Iona College",
@@ -3431,7 +3632,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Johns Hopkins University",
@@ -3448,7 +3650,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Kings College",
@@ -3465,7 +3668,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "List College The Jewish Theological Seminary",
@@ -3482,7 +3686,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Long Island University",
@@ -3499,7 +3704,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Longwood University",
@@ -3516,7 +3722,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Maryland Institute College of Art",
@@ -3533,7 +3740,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Marymount Manhattan College",
@@ -3550,7 +3758,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Massachusetts Institite of Technology",
@@ -3567,7 +3776,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Merrimack College",
@@ -3584,7 +3794,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Miami University of Ohio",
@@ -3601,7 +3812,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Nazareth College",
@@ -3618,7 +3830,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Nebraska Wesleyan University",
@@ -3635,7 +3848,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Notre Dame University",
@@ -3652,7 +3866,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Pennsylvania Academy of Fine Arts",
@@ -3669,7 +3884,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Ramapo College of New Jersey",
@@ -3686,7 +3902,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Saint Joseph's University",
@@ -3703,7 +3920,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Sewanee: The University of the South",
@@ -3720,7 +3938,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Sierra Nevada College",
@@ -3737,7 +3956,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Southern California Institute of Architecture",
@@ -3754,7 +3974,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Springfield College",
@@ -3771,7 +3992,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "St. Francis College",
@@ -3788,7 +4010,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "St. John Fisher College",
@@ -3805,7 +4028,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "St. John's University (NY)",
@@ -3822,7 +4046,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "St. Louis College of Pharmacy",
@@ -3839,7 +4064,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Sterling College (Vermont)",
@@ -3856,7 +4082,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Stevens Institute of Technology",
@@ -3873,7 +4100,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "SUNY College at Geneseo",
@@ -3890,7 +4118,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "SUNY College of Environ. Science and Forestry",
@@ -3907,7 +4136,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "SUNY Maritime College",
@@ -3924,7 +4154,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Susquehanna University",
@@ -3941,7 +4172,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Sweetbriar College",
@@ -3958,7 +4190,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "The College of New Jersey",
@@ -3975,7 +4208,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "University of Chicago",
@@ -3992,7 +4226,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "University of Michigan",
@@ -4009,7 +4244,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Ursinus College",
@@ -4026,7 +4262,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Washington and Lee University",
@@ -4043,7 +4280,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Washington College",
@@ -4060,7 +4298,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Webb Institute of Naval Architecture",
@@ -4077,7 +4316,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Westminster College (PA)",
@@ -4094,7 +4334,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Wilkes University",
@@ -4111,7 +4352,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Wittenberg College",
@@ -4128,7 +4370,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Wofford College",
@@ -4145,7 +4388,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Worcester Polytechnic University",
@@ -4162,7 +4406,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "York College of Pennsylvania",
@@ -4179,7 +4424,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Adelphi University",
@@ -4196,7 +4442,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 63605
   },
   {
     "Institution": "Albion College",
@@ -4213,7 +4460,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 42792,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 21863
   },
   {
     "Institution": "Alma College",
@@ -4230,7 +4478,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 57672
   },
   {
     "Institution": "Aquinas College",
@@ -4247,7 +4496,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 47728
   },
   {
     "Institution": "Arizona State University",
@@ -4264,7 +4514,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5134,
-    "Percentage of International Noncitizens Receiving Aid": 88
+    "Percentage of International Noncitizens Receiving Aid": 88,
+    "Estimated Family Contribution": 42534
   },
   {
     "Institution": "Auburn University",
@@ -4281,7 +4532,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 52838
   },
   {
     "Institution": "Augustana College",
@@ -4298,7 +4550,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 17556,
-    "Percentage of International Noncitizens Receiving Aid": 103
+    "Percentage of International Noncitizens Receiving Aid": 103,
+    "Estimated Family Contribution": 40996
   },
   {
     "Institution": "Azusa Pacific University",
@@ -4315,7 +4568,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22268,
-    "Percentage of International Noncitizens Receiving Aid": 17
+    "Percentage of International Noncitizens Receiving Aid": 17,
+    "Estimated Family Contribution": 32558
   },
   {
     "Institution": "Barry University",
@@ -4332,7 +4586,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 48574
   },
   {
     "Institution": "Belmont University",
@@ -4349,7 +4604,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 28686,
-    "Percentage of International Noncitizens Receiving Aid": 76
+    "Percentage of International Noncitizens Receiving Aid": 76,
+    "Estimated Family Contribution": 27764
   },
   {
     "Institution": "Bethel University",
@@ -4366,7 +4622,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22401,
-    "Percentage of International Noncitizens Receiving Aid": 73
+    "Percentage of International Noncitizens Receiving Aid": 73,
+    "Estimated Family Contribution": 9797
   },
   {
     "Institution": "Biola University",
@@ -4383,7 +4640,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 16079,
-    "Percentage of International Noncitizens Receiving Aid": 90
+    "Percentage of International Noncitizens Receiving Aid": 90,
+    "Estimated Family Contribution": 43679
   },
   {
     "Institution": "Boise State University",
@@ -4400,7 +4658,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 42450
   },
   {
     "Institution": "Bradley University",
@@ -4417,7 +4676,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 25064,
-    "Percentage of International Noncitizens Receiving Aid": 27
+    "Percentage of International Noncitizens Receiving Aid": 27,
+    "Estimated Family Contribution": 25136
   },
   {
     "Institution": "Brigham Young University (2)",
@@ -4434,7 +4694,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5255,
-    "Percentage of International Noncitizens Receiving Aid": 174
+    "Percentage of International Noncitizens Receiving Aid": 174,
+    "Estimated Family Contribution": 14339
   },
   {
     "Institution": "Butler University",
@@ -4451,7 +4712,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 61830
   },
   {
     "Institution": "California College of the Arts",
@@ -4468,7 +4730,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 74680
   },
   {
     "Institution": "California Institute of Technology",
@@ -4485,7 +4748,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 61706,
-    "Percentage of International Noncitizens Receiving Aid": 47
+    "Percentage of International Noncitizens Receiving Aid": 47,
+    "Estimated Family Contribution": 16012
   },
   {
     "Institution": "California Poly State U. - San Luis Obispo",
@@ -4502,7 +4766,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5418,
-    "Percentage of International Noncitizens Receiving Aid": 24
+    "Percentage of International Noncitizens Receiving Aid": 24,
+    "Estimated Family Contribution": 39325
   },
   {
     "Institution": "California State Poly. U. - Pomona",
@@ -4519,7 +4784,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 40062
   },
   {
     "Institution": "California State University - Long Beach",
@@ -4536,7 +4802,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 1889,
-    "Percentage of International Noncitizens Receiving Aid": 2
+    "Percentage of International Noncitizens Receiving Aid": 2,
+    "Estimated Family Contribution": 34185
   },
   {
     "Institution": "California State University - Los Angeles",
@@ -4553,7 +4820,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 11969,
-    "Percentage of International Noncitizens Receiving Aid": 2
+    "Percentage of International Noncitizens Receiving Aid": 2,
+    "Estimated Family Contribution": 28987
   },
   {
     "Institution": "California State University - Northridge",
@@ -4570,7 +4838,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 35197
   },
   {
     "Institution": "Catawba College",
@@ -4587,7 +4856,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 29995,
-    "Percentage of International Noncitizens Receiving Aid": 112
+    "Percentage of International Noncitizens Receiving Aid": 112,
+    "Estimated Family Contribution": 17079
   },
   {
     "Institution": "Clemson University",
@@ -4604,7 +4874,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 55872
   },
   {
     "Institution": "College of Saint Benedict",
@@ -4621,7 +4892,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 62290
   },
   {
     "Institution": "College of Saint Scholastica",
@@ -4638,7 +4910,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 53284
   },
   {
     "Institution": "Colorado School of Mines",
@@ -4655,7 +4928,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9232,
-    "Percentage of International Noncitizens Receiving Aid": 22
+    "Percentage of International Noncitizens Receiving Aid": 22,
+    "Estimated Family Contribution": 48667
   },
   {
     "Institution": "Colorado State University - Fort Collins",
@@ -4672,7 +4946,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 11067,
-    "Percentage of International Noncitizens Receiving Aid": 116
+    "Percentage of International Noncitizens Receiving Aid": 116,
+    "Estimated Family Contribution": 33120
   },
   {
     "Institution": "Columbia College (MO)",
@@ -4689,7 +4964,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 21637,
-    "Percentage of International Noncitizens Receiving Aid": 109
+    "Percentage of International Noncitizens Receiving Aid": 109,
+    "Estimated Family Contribution": 16997
   },
   {
     "Institution": "Columbia College Chicago",
@@ -4706,7 +4982,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 48698
   },
   {
     "Institution": "Cornell College",
@@ -4723,7 +5000,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 24159,
-    "Percentage of International Noncitizens Receiving Aid": 98
+    "Percentage of International Noncitizens Receiving Aid": 98,
+    "Estimated Family Contribution": 36358
   },
   {
     "Institution": "Creighton University",
@@ -4740,7 +5018,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 29247,
-    "Percentage of International Noncitizens Receiving Aid": 80
+    "Percentage of International Noncitizens Receiving Aid": 80,
+    "Estimated Family Contribution": 29371
   },
   {
     "Institution": "CUNY - Baruch College",
@@ -4757,7 +5036,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 41748
   },
   {
     "Institution": "DePaul University",
@@ -4774,7 +5054,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 14924,
-    "Percentage of International Noncitizens Receiving Aid": 65
+    "Percentage of International Noncitizens Receiving Aid": 65,
+    "Estimated Family Contribution": 44869
   },
   {
     "Institution": "Drake University",
@@ -4791,7 +5072,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 21708,
-    "Percentage of International Noncitizens Receiving Aid": 93
+    "Percentage of International Noncitizens Receiving Aid": 93,
+    "Estimated Family Contribution": 38620
   },
   {
     "Institution": "Duquesne University",
@@ -4808,7 +5090,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 23687,
-    "Percentage of International Noncitizens Receiving Aid": 111
+    "Percentage of International Noncitizens Receiving Aid": 111,
+    "Estimated Family Contribution": 35417
   },
   {
     "Institution": "East Carolina University",
@@ -4825,7 +5108,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 38886
   },
   {
     "Institution": "Eastern Michigan University",
@@ -4842,7 +5126,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Eckerd College",
@@ -4859,7 +5144,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 35591,
-    "Percentage of International Noncitizens Receiving Aid": 98
+    "Percentage of International Noncitizens Receiving Aid": 98,
+    "Estimated Family Contribution": 30045
   },
   {
     "Institution": "Embry Riddle Aeronautical U. - Daytona",
@@ -4876,7 +5162,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 55596
   },
   {
     "Institution": "Embry Riddle Aeronautical U. - Prescott",
@@ -4893,7 +5180,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 56260
   },
   {
     "Institution": "Emory & Henry College",
@@ -4910,7 +5198,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 52250
   },
   {
     "Institution": "Eugene Lang College The New School",
@@ -4927,7 +5216,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 11768,
-    "Percentage of International Noncitizens Receiving Aid": 115
+    "Percentage of International Noncitizens Receiving Aid": 115,
+    "Estimated Family Contribution": 61608
   },
   {
     "Institution": "Evergreen State College",
@@ -4944,7 +5234,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 45675
   },
   {
     "Institution": "Fashion Institute of Technology",
@@ -4961,7 +5252,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 862,
-    "Percentage of International Noncitizens Receiving Aid": 2
+    "Percentage of International Noncitizens Receiving Aid": 2,
+    "Estimated Family Contribution": 34831
   },
   {
     "Institution": "Florida Institute of Technology",
@@ -4978,7 +5270,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 17746,
-    "Percentage of International Noncitizens Receiving Aid": 52
+    "Percentage of International Noncitizens Receiving Aid": 52,
+    "Estimated Family Contribution": 40700
   },
   {
     "Institution": "Florida State University",
@@ -4995,7 +5288,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8364,
-    "Percentage of International Noncitizens Receiving Aid": 89
+    "Percentage of International Noncitizens Receiving Aid": 89,
+    "Estimated Family Contribution": 27892
   },
   {
     "Institution": "Franklin & Marshall College",
@@ -5012,7 +5306,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 47507,
-    "Percentage of International Noncitizens Receiving Aid": 28
+    "Percentage of International Noncitizens Receiving Aid": 28,
+    "Estimated Family Contribution": 30475
   },
   {
     "Institution": "Gallaudet University",
@@ -5029,7 +5324,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 39166
   },
   {
     "Institution": "Gannon University",
@@ -5046,7 +5342,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 20757,
-    "Percentage of International Noncitizens Receiving Aid": 40
+    "Percentage of International Noncitizens Receiving Aid": 40,
+    "Estimated Family Contribution": 31804
   },
   {
     "Institution": "George Mason University",
@@ -5063,7 +5360,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 7517,
-    "Percentage of International Noncitizens Receiving Aid": 37
+    "Percentage of International Noncitizens Receiving Aid": 37,
+    "Estimated Family Contribution": 46857
   },
   {
     "Institution": "Georgia Institute of Technology",
@@ -5080,7 +5378,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 50914
   },
   {
     "Institution": "Georgia State University",
@@ -5097,7 +5396,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 4003,
-    "Percentage of International Noncitizens Receiving Aid": 35
+    "Percentage of International Noncitizens Receiving Aid": 35,
+    "Estimated Family Contribution": 41530
   },
   {
     "Institution": "Gonzaga University",
@@ -5114,7 +5414,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 35344,
-    "Percentage of International Noncitizens Receiving Aid": 90
+    "Percentage of International Noncitizens Receiving Aid": 90,
+    "Estimated Family Contribution": 29458
   },
   {
     "Institution": "Gordon College",
@@ -5131,7 +5432,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 21659,
-    "Percentage of International Noncitizens Receiving Aid": 104
+    "Percentage of International Noncitizens Receiving Aid": 104,
+    "Estimated Family Contribution": 31191
   },
   {
     "Institution": "Goshen College",
@@ -5148,7 +5450,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 26910,
-    "Percentage of International Noncitizens Receiving Aid": 98
+    "Percentage of International Noncitizens Receiving Aid": 98,
+    "Estimated Family Contribution": 22780
   },
   {
     "Institution": "Grand Valley State University",
@@ -5165,7 +5468,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9730,
-    "Percentage of International Noncitizens Receiving Aid": 60
+    "Percentage of International Noncitizens Receiving Aid": 60,
+    "Estimated Family Contribution": 21626
   },
   {
     "Institution": "Gustavus Adolphus College",
@@ -5182,7 +5486,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 61299
   },
   {
     "Institution": "Hampton University",
@@ -5199,7 +5504,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 46198
   },
   {
     "Institution": "Hofstra University",
@@ -5216,7 +5522,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 27040,
-    "Percentage of International Noncitizens Receiving Aid": 73
+    "Percentage of International Noncitizens Receiving Aid": 73,
+    "Estimated Family Contribution": 41588
   },
   {
     "Institution": "Hood College",
@@ -5233,7 +5540,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 59898
   },
   {
     "Institution": "Hope College",
@@ -5250,7 +5558,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 50360
   },
   {
     "Institution": "Houghton College",
@@ -5267,7 +5576,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 48172
   },
   {
     "Institution": "Illinois Institute of Technology",
@@ -5284,7 +5594,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22407,
-    "Percentage of International Noncitizens Receiving Aid": 122
+    "Percentage of International Noncitizens Receiving Aid": 122,
+    "Estimated Family Contribution": 48761
   },
   {
     "Institution": "Illinois Wesleyan University",
@@ -5301,7 +5612,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 31991,
-    "Percentage of International Noncitizens Receiving Aid": 93
+    "Percentage of International Noncitizens Receiving Aid": 93,
+    "Estimated Family Contribution": 33685
   },
   {
     "Institution": "Indiana University - Bloomington",
@@ -5318,7 +5630,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5479,
-    "Percentage of International Noncitizens Receiving Aid": 61
+    "Percentage of International Noncitizens Receiving Aid": 61,
+    "Estimated Family Contribution": 47087
   },
   {
     "Institution": "Indiana U. - Purdue U. - Indianapolis",
@@ -5335,7 +5648,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9901,
-    "Percentage of International Noncitizens Receiving Aid": 45
+    "Percentage of International Noncitizens Receiving Aid": 45,
+    "Estimated Family Contribution": 35449
   },
   {
     "Institution": "Iowa State University",
@@ -5352,7 +5666,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 7473,
-    "Percentage of International Noncitizens Receiving Aid": 33
+    "Percentage of International Noncitizens Receiving Aid": 33,
+    "Estimated Family Contribution": 29655
   },
   {
     "Institution": "James Madison University",
@@ -5369,7 +5684,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 23251,
-    "Percentage of International Noncitizens Receiving Aid": 48
+    "Percentage of International Noncitizens Receiving Aid": 48,
+    "Estimated Family Contribution": 22429
   },
   {
     "Institution": "John Brown University",
@@ -5386,7 +5702,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Juilliard School",
@@ -5403,7 +5720,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 71780
   },
   {
     "Institution": "Kansas State University",
@@ -5420,7 +5738,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 41766
   },
   {
     "Institution": "Kettering University",
@@ -5437,7 +5756,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 58080
   },
   {
     "Institution": "Keuka College",
@@ -5454,7 +5774,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 14763,
-    "Percentage of International Noncitizens Receiving Aid": 533
+    "Percentage of International Noncitizens Receiving Aid": 533,
+    "Estimated Family Contribution": 36583
   },
   {
     "Institution": "Lawrence Technological University",
@@ -5471,7 +5792,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9365,
-    "Percentage of International Noncitizens Receiving Aid": 35
+    "Percentage of International Noncitizens Receiving Aid": 35,
+    "Estimated Family Contribution": 44311
   },
   {
     "Institution": "Lindenwood University",
@@ -5488,7 +5810,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13037,
-    "Percentage of International Noncitizens Receiving Aid": 96
+    "Percentage of International Noncitizens Receiving Aid": 96,
+    "Estimated Family Contribution": 18463
   },
   {
     "Institution": "Linfield College",
@@ -5505,7 +5828,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22367,
-    "Percentage of International Noncitizens Receiving Aid": 93
+    "Percentage of International Noncitizens Receiving Aid": 93,
+    "Estimated Family Contribution": 38645
   },
   {
     "Institution": "Louisiana State University",
@@ -5522,7 +5846,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13952,
-    "Percentage of International Noncitizens Receiving Aid": 25
+    "Percentage of International Noncitizens Receiving Aid": 25,
+    "Estimated Family Contribution": 36119
   },
   {
     "Institution": "Loyola University Chicago",
@@ -5539,7 +5864,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 17074,
-    "Percentage of International Noncitizens Receiving Aid": 80
+    "Percentage of International Noncitizens Receiving Aid": 80,
+    "Estimated Family Contribution": 46566
   },
   {
     "Institution": "Loyola University Maryland",
@@ -5556,7 +5882,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 41182,
-    "Percentage of International Noncitizens Receiving Aid": 62
+    "Percentage of International Noncitizens Receiving Aid": 62,
+    "Estimated Family Contribution": 28588
   },
   {
     "Institution": "Loyola University New Orleans",
@@ -5573,7 +5900,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 23101,
-    "Percentage of International Noncitizens Receiving Aid": 46
+    "Percentage of International Noncitizens Receiving Aid": 46,
+    "Estimated Family Contribution": 37184
   },
   {
     "Institution": "Luther College",
@@ -5590,7 +5918,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 59775
   },
   {
     "Institution": "Lynn University",
@@ -5607,7 +5936,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 58263
   },
   {
     "Institution": "Malone University",
@@ -5624,7 +5954,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 24952,
-    "Percentage of International Noncitizens Receiving Aid": 93
+    "Percentage of International Noncitizens Receiving Aid": 93,
+    "Estimated Family Contribution": 21664
   },
   {
     "Institution": "Marquette University",
@@ -5641,7 +5972,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 23556,
-    "Percentage of International Noncitizens Receiving Aid": 83
+    "Percentage of International Noncitizens Receiving Aid": 83,
+    "Estimated Family Contribution": 39132
   },
   {
     "Institution": "Massachusetts Inst of Technology",
@@ -5658,7 +5990,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 62638,
-    "Percentage of International Noncitizens Receiving Aid": 83
+    "Percentage of International Noncitizens Receiving Aid": 83,
+    "Estimated Family Contribution": 9824
   },
   {
     "Institution": "Mercer University",
@@ -5675,7 +6008,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 33703,
-    "Percentage of International Noncitizens Receiving Aid": 95
+    "Percentage of International Noncitizens Receiving Aid": 95,
+    "Estimated Family Contribution": 21153
   },
   {
     "Institution": "Miami University (Ohio)",
@@ -5692,7 +6026,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 16445,
-    "Percentage of International Noncitizens Receiving Aid": 32
+    "Percentage of International Noncitizens Receiving Aid": 32,
+    "Estimated Family Contribution": 38481
   },
   {
     "Institution": "Michigan State University",
@@ -5709,7 +6044,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 20020,
-    "Percentage of International Noncitizens Receiving Aid": 28
+    "Percentage of International Noncitizens Receiving Aid": 28,
+    "Estimated Family Contribution": 34516
   },
   {
     "Institution": "Michigan Technological University",
@@ -5726,7 +6062,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13866,
-    "Percentage of International Noncitizens Receiving Aid": 128
+    "Percentage of International Noncitizens Receiving Aid": 128,
+    "Estimated Family Contribution": 37785
   },
   {
     "Institution": "Mills College",
@@ -5743,7 +6080,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 12000,
-    "Percentage of International Noncitizens Receiving Aid": 67
+    "Percentage of International Noncitizens Receiving Aid": 67,
+    "Estimated Family Contribution": 36732
   },
   {
     "Institution": "Millsaps College",
@@ -5760,7 +6098,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 58516
   },
   {
     "Institution": "Milwaukee School of Engineering",
@@ -5777,7 +6116,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13658,
-    "Percentage of International Noncitizens Receiving Aid": 99
+    "Percentage of International Noncitizens Receiving Aid": 99,
+    "Estimated Family Contribution": 43206
   },
   {
     "Institution": "Mississippi State University",
@@ -5794,7 +6134,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 3827,
-    "Percentage of International Noncitizens Receiving Aid": 76
+    "Percentage of International Noncitizens Receiving Aid": 76,
+    "Estimated Family Contribution": 37117
   },
   {
     "Institution": "Missouri U. of Science and Technology",
@@ -5811,7 +6152,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 26074,
-    "Percentage of International Noncitizens Receiving Aid": 85
+    "Percentage of International Noncitizens Receiving Aid": 85,
+    "Estimated Family Contribution": 15764
   },
   {
     "Institution": "Montana State University",
@@ -5828,7 +6170,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5538,
-    "Percentage of International Noncitizens Receiving Aid": 37
+    "Percentage of International Noncitizens Receiving Aid": 37,
+    "Estimated Family Contribution": 37251
   },
   {
     "Institution": "Muskingum University",
@@ -5845,7 +6188,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 44172
   },
   {
     "Institution": "New College of Florida",
@@ -5862,7 +6206,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 19366,
-    "Percentage of International Noncitizens Receiving Aid": 82
+    "Percentage of International Noncitizens Receiving Aid": 82,
+    "Estimated Family Contribution": 24710
   },
   {
     "Institution": "New Jersey Institute of Technology",
@@ -5879,7 +6224,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 54286
   },
   {
     "Institution": "New Mexico Institute of Mining and Tech.",
@@ -5896,7 +6242,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 36912
   },
   {
     "Institution": "North Carolina State University - Raleigh",
@@ -5913,7 +6260,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22640,
-    "Percentage of International Noncitizens Receiving Aid": 18
+    "Percentage of International Noncitizens Receiving Aid": 18,
+    "Estimated Family Contribution": 22034
   },
   {
     "Institution": "Northern Arizona University",
@@ -5930,7 +6278,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 6221,
-    "Percentage of International Noncitizens Receiving Aid": 33
+    "Percentage of International Noncitizens Receiving Aid": 33,
+    "Estimated Family Contribution": 37247
   },
   {
     "Institution": "Northern Illinois University",
@@ -5947,7 +6296,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 0
   },
   {
     "Institution": "Oglethorpe University",
@@ -5964,7 +6314,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 28439,
-    "Percentage of International Noncitizens Receiving Aid": 97
+    "Percentage of International Noncitizens Receiving Aid": 97,
+    "Estimated Family Contribution": 30471
   },
   {
     "Institution": "Ohio Northern University",
@@ -5981,7 +6332,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 50875
   },
   {
     "Institution": "Ohio State University - Columbus",
@@ -5998,7 +6350,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 50648
   },
   {
     "Institution": "Ohio University",
@@ -6015,7 +6368,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 40558
   },
   {
     "Institution": "Oklahoma State University",
@@ -6032,7 +6386,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 39759
   },
   {
     "Institution": "Old Dominion University",
@@ -6049,7 +6404,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 12000,
-    "Percentage of International Noncitizens Receiving Aid": 12
+    "Percentage of International Noncitizens Receiving Aid": 12,
+    "Estimated Family Contribution": 36248
   },
   {
     "Institution": "Olin College of Engineering",
@@ -6066,7 +6422,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 28713,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 48133
   },
   {
     "Institution": "Oregon State University",
@@ -6083,7 +6440,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 48609
   },
   {
     "Institution": "Parsons The New School",
@@ -6100,7 +6458,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8215,
-    "Percentage of International Noncitizens Receiving Aid": 88
+    "Percentage of International Noncitizens Receiving Aid": 88,
+    "Estimated Family Contribution": 65161
   },
   {
     "Institution": "Penn State U. - Erie Behrend College",
@@ -6117,7 +6476,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 43872
   },
   {
     "Institution": "Penn State U - University Park",
@@ -6134,7 +6494,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 54460
   },
   {
     "Institution": "Pepperdine University",
@@ -6151,7 +6512,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 18904,
-    "Percentage of International Noncitizens Receiving Aid": 65
+    "Percentage of International Noncitizens Receiving Aid": 65,
+    "Estimated Family Contribution": 59008
   },
   {
     "Institution": "Pratt Institute",
@@ -6168,7 +6530,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 18503,
-    "Percentage of International Noncitizens Receiving Aid": 44
+    "Percentage of International Noncitizens Receiving Aid": 44,
+    "Estimated Family Contribution": 51855
   },
   {
     "Institution": "Prescott College",
@@ -6185,7 +6548,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 35254,
-    "Percentage of International Noncitizens Receiving Aid": 133
+    "Percentage of International Noncitizens Receiving Aid": 133,
+    "Estimated Family Contribution": 10876
   },
   {
     "Institution": "Purdue University - West Lafayette",
@@ -6202,7 +6566,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 2884,
-    "Percentage of International Noncitizens Receiving Aid": 9
+    "Percentage of International Noncitizens Receiving Aid": 9,
+    "Estimated Family Contribution": 38700
   },
   {
     "Institution": "Randolph College",
@@ -6219,7 +6584,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 40972
   },
   {
     "Institution": "Regis University",
@@ -6236,7 +6602,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 12021,
-    "Percentage of International Noncitizens Receiving Aid": 84
+    "Percentage of International Noncitizens Receiving Aid": 84,
+    "Estimated Family Contribution": 44279
   },
   {
     "Institution": "Robert Morris University",
@@ -6253,7 +6620,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 30340,
-    "Percentage of International Noncitizens Receiving Aid": 49
+    "Percentage of International Noncitizens Receiving Aid": 49,
+    "Estimated Family Contribution": 18752
   },
   {
     "Institution": "Roger Williams University",
@@ -6270,7 +6638,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 17489,
-    "Percentage of International Noncitizens Receiving Aid": 75
+    "Percentage of International Noncitizens Receiving Aid": 75,
+    "Estimated Family Contribution": 40667
   },
   {
     "Institution": "Rose-Hulman Inst. of Technology",
@@ -6287,7 +6656,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8621,
-    "Percentage of International Noncitizens Receiving Aid": 129
+    "Percentage of International Noncitizens Receiving Aid": 129,
+    "Estimated Family Contribution": 63043
   },
   {
     "Institution": "Rowan University",
@@ -6304,7 +6674,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 6289,
-    "Percentage of International Noncitizens Receiving Aid": 36
+    "Percentage of International Noncitizens Receiving Aid": 36,
+    "Estimated Family Contribution": 37654
   },
   {
     "Institution": "Rutgers University - New Brunswick",
@@ -6321,7 +6692,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 15049,
-    "Percentage of International Noncitizens Receiving Aid": 9
+    "Percentage of International Noncitizens Receiving Aid": 9,
+    "Estimated Family Contribution": 34735
   },
   {
     "Institution": "Saint John's University - Minnesota",
@@ -6338,7 +6710,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 62028
   },
   {
     "Institution": "Saint Louis University",
@@ -6355,7 +6728,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 64892
   },
   {
     "Institution": "Saint Mary's College of California",
@@ -6372,7 +6746,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 46504,
-    "Percentage of International Noncitizens Receiving Aid": 97
+    "Percentage of International Noncitizens Receiving Aid": 97,
+    "Estimated Family Contribution": 23876
   },
   {
     "Institution": "Saint Michael's College",
@@ -6389,7 +6764,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 27436,
-    "Percentage of International Noncitizens Receiving Aid": 93
+    "Percentage of International Noncitizens Receiving Aid": 93,
+    "Estimated Family Contribution": 36608
   },
   {
     "Institution": "Salve Regina University",
@@ -6406,7 +6782,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 23634,
-    "Percentage of International Noncitizens Receiving Aid": 89
+    "Percentage of International Noncitizens Receiving Aid": 89,
+    "Estimated Family Contribution": 39536
   },
   {
     "Institution": "San Diego State University",
@@ -6423,7 +6800,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 20322,
-    "Percentage of International Noncitizens Receiving Aid": 6
+    "Percentage of International Noncitizens Receiving Aid": 6,
+    "Estimated Family Contribution": 21798
   },
   {
     "Institution": "San Francisco Art Institute",
@@ -6440,7 +6818,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 69074
   },
   {
     "Institution": "San Jose State University",
@@ -6457,7 +6836,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8520,
-    "Percentage of International Noncitizens Receiving Aid": 26
+    "Percentage of International Noncitizens Receiving Aid": 26,
+    "Estimated Family Contribution": 32385
   },
   {
     "Institution": "Seattle University",
@@ -6474,7 +6854,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13236,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 52734
   },
   {
     "Institution": "Seton Hill University",
@@ -6491,7 +6872,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 54226
   },
   {
     "Institution": "Sewanee - University of the South",
@@ -6508,7 +6890,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 43259,
-    "Percentage of International Noncitizens Receiving Aid": 91
+    "Percentage of International Noncitizens Receiving Aid": 91,
+    "Estimated Family Contribution": 21371
   },
   {
     "Institution": "Slippery Rock University",
@@ -6525,7 +6908,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 6806,
-    "Percentage of International Noncitizens Receiving Aid": 40
+    "Percentage of International Noncitizens Receiving Aid": 40,
+    "Estimated Family Contribution": 21874
   },
   {
     "Institution": "Soka University of America",
@@ -6542,7 +6926,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 49244,
-    "Percentage of International Noncitizens Receiving Aid": 100
+    "Percentage of International Noncitizens Receiving Aid": 100,
+    "Estimated Family Contribution": 1764
   },
   {
     "Institution": "Southeastern Louisiana University",
@@ -6559,7 +6944,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 17624,
-    "Percentage of International Noncitizens Receiving Aid": 125
+    "Percentage of International Noncitizens Receiving Aid": 125,
+    "Estimated Family Contribution": 18323
   },
   {
     "Institution": "Southern Illinois University - Carbondale",
@@ -6576,7 +6962,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 18558,
-    "Percentage of International Noncitizens Receiving Aid": 50
+    "Percentage of International Noncitizens Receiving Aid": 50,
+    "Estimated Family Contribution": -18558
   },
   {
     "Institution": "St. Cloud State University",
@@ -6593,7 +6980,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 29987
   },
   {
     "Institution": "St. John's University - New York",
@@ -6610,7 +6998,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 65613
   },
   {
     "Institution": "St. Mary's University (TX)",
@@ -6627,7 +7016,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 33759,
-    "Percentage of International Noncitizens Receiving Aid": 61
+    "Percentage of International Noncitizens Receiving Aid": 61,
+    "Estimated Family Contribution": 15341
   },
   {
     "Institution": "St. Norbert College",
@@ -6644,7 +7034,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 24983,
-    "Percentage of International Noncitizens Receiving Aid": 153
+    "Percentage of International Noncitizens Receiving Aid": 153,
+    "Estimated Family Contribution": 28837
   },
   {
     "Institution": "Stetson University",
@@ -6661,7 +7052,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 68240
   },
   {
     "Institution": "Suffolk University",
@@ -6678,7 +7070,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 62760
   },
   {
     "Institution": "SUNY Binghamton",
@@ -6695,7 +7088,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9270,
-    "Percentage of International Noncitizens Receiving Aid": 19
+    "Percentage of International Noncitizens Receiving Aid": 19,
+    "Estimated Family Contribution": 35935
   },
   {
     "Institution": "SUNY Buffalo",
@@ -6712,7 +7106,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8995,
-    "Percentage of International Noncitizens Receiving Aid": 7
+    "Percentage of International Noncitizens Receiving Aid": 7,
+    "Estimated Family Contribution": 26837
   },
   {
     "Institution": "SUNY Environ. Science and Forestry",
@@ -6729,7 +7124,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 4400,
-    "Percentage of International Noncitizens Receiving Aid": 37
+    "Percentage of International Noncitizens Receiving Aid": 37,
+    "Estimated Family Contribution": 35580
   },
   {
     "Institution": "SUNY Geneseo",
@@ -6746,7 +7142,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 3141,
-    "Percentage of International Noncitizens Receiving Aid": 89
+    "Percentage of International Noncitizens Receiving Aid": 89,
+    "Estimated Family Contribution": 33597
   },
   {
     "Institution": "SUNY Purchase",
@@ -6763,7 +7160,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 4375,
-    "Percentage of International Noncitizens Receiving Aid": 67
+    "Percentage of International Noncitizens Receiving Aid": 67,
+    "Estimated Family Contribution": 33556
   },
   {
     "Institution": "SUNY Stony Brook",
@@ -6780,7 +7178,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 4946,
-    "Percentage of International Noncitizens Receiving Aid": 7
+    "Percentage of International Noncitizens Receiving Aid": 7,
+    "Estimated Family Contribution": 40467
   },
   {
     "Institution": "Susquehanna College",
@@ -6797,7 +7196,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 36067,
-    "Percentage of International Noncitizens Receiving Aid": 59
+    "Percentage of International Noncitizens Receiving Aid": 59,
+    "Estimated Family Contribution": 31433
   },
   {
     "Institution": "Sweet Briar College",
@@ -6814,7 +7214,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 40350
   },
   {
     "Institution": "Temple University",
@@ -6831,7 +7232,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 12874,
-    "Percentage of International Noncitizens Receiving Aid": 45
+    "Percentage of International Noncitizens Receiving Aid": 45,
+    "Estimated Family Contribution": 35742
   },
   {
     "Institution": "Texas A & M University",
@@ -6848,7 +7250,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 21882,
-    "Percentage of International Noncitizens Receiving Aid": 41
+    "Percentage of International Noncitizens Receiving Aid": 41,
+    "Estimated Family Contribution": 36142
   },
   {
     "Institution": "Texas Tech University",
@@ -6865,7 +7268,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 6263,
-    "Percentage of International Noncitizens Receiving Aid": 71
+    "Percentage of International Noncitizens Receiving Aid": 71,
+    "Estimated Family Contribution": 33163
   },
   {
     "Institution": "The Citadel",
@@ -6882,7 +7286,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 35696,
-    "Percentage of International Noncitizens Receiving Aid": 16
+    "Percentage of International Noncitizens Receiving Aid": 16,
+    "Estimated Family Contribution": 17960
   },
   {
     "Institution": "The New School Coll. of Performing Arts",
@@ -6899,7 +7304,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 19053,
-    "Percentage of International Noncitizens Receiving Aid": 125
+    "Percentage of International Noncitizens Receiving Aid": 125,
+    "Estimated Family Contribution": 54323
   },
   {
     "Institution": "Towson University",
@@ -6916,7 +7322,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9289,
-    "Percentage of International Noncitizens Receiving Aid": 33
+    "Percentage of International Noncitizens Receiving Aid": 33,
+    "Estimated Family Contribution": 33527
   },
   {
     "Institution": "Tuskegee University",
@@ -6933,7 +7340,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 41924
   },
   {
     "Institution": "University of Alabama",
@@ -6950,7 +7358,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 32761,
-    "Percentage of International Noncitizens Receiving Aid": 23
+    "Percentage of International Noncitizens Receiving Aid": 23,
+    "Estimated Family Contribution": 17759
   },
   {
     "Institution": "University of Arizona",
@@ -6967,7 +7376,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 16684,
-    "Percentage of International Noncitizens Receiving Aid": 28
+    "Percentage of International Noncitizens Receiving Aid": 28,
+    "Estimated Family Contribution": 37759
   },
   {
     "Institution": "University of Arkansas",
@@ -6984,7 +7394,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9608,
-    "Percentage of International Noncitizens Receiving Aid": 40
+    "Percentage of International Noncitizens Receiving Aid": 40,
+    "Estimated Family Contribution": 33056
   },
   {
     "Institution": "University of California - Berkeley",
@@ -7001,7 +7412,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 71282
   },
   {
     "Institution": "University of California - Davis",
@@ -7018,7 +7430,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 14649,
-    "Percentage of International Noncitizens Receiving Aid": 3
+    "Percentage of International Noncitizens Receiving Aid": 3,
+    "Estimated Family Contribution": 52756
   },
   {
     "Institution": "University of California - Irvine",
@@ -7035,7 +7448,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 19601,
-    "Percentage of International Noncitizens Receiving Aid": 1
+    "Percentage of International Noncitizens Receiving Aid": 1,
+    "Estimated Family Contribution": 46194
   },
   {
     "Institution": "University of California - Los Angeles",
@@ -7052,7 +7466,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 30839,
-    "Percentage of International Noncitizens Receiving Aid": 3
+    "Percentage of International Noncitizens Receiving Aid": 3,
+    "Estimated Family Contribution": 35702
   },
   {
     "Institution": "University of California - Merced",
@@ -7069,7 +7484,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 4292,
-    "Percentage of International Noncitizens Receiving Aid": 1
+    "Percentage of International Noncitizens Receiving Aid": 1,
+    "Estimated Family Contribution": 62162
   },
   {
     "Institution": "University of California - Riverside",
@@ -7086,7 +7502,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13782,
-    "Percentage of International Noncitizens Receiving Aid": 32
+    "Percentage of International Noncitizens Receiving Aid": 32,
+    "Estimated Family Contribution": 51494
   },
   {
     "Institution": "University of California - San Diego",
@@ -7103,7 +7520,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 13826,
-    "Percentage of International Noncitizens Receiving Aid": "<1"
+    "Percentage of International Noncitizens Receiving Aid": "<1",
+    "Estimated Family Contribution": 51239
   },
   {
     "Institution": "University of California - Santa Barbara",
@@ -7120,7 +7538,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22008,
-    "Percentage of International Noncitizens Receiving Aid": 3
+    "Percentage of International Noncitizens Receiving Aid": 3,
+    "Estimated Family Contribution": 44695
   },
   {
     "Institution": "University of California - Santa Cruz",
@@ -7137,7 +7556,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5351,
-    "Percentage of International Noncitizens Receiving Aid": 41
+    "Percentage of International Noncitizens Receiving Aid": 41,
+    "Estimated Family Contribution": 63540
   },
   {
     "Institution": "University of Central Florida",
@@ -7154,7 +7574,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 980,
-    "Percentage of International Noncitizens Receiving Aid": 12
+    "Percentage of International Noncitizens Receiving Aid": 12,
+    "Estimated Family Contribution": 37957
   },
   {
     "Institution": "University of Cincinnati",
@@ -7171,7 +7592,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 43484
   },
   {
     "Institution": "University of Colorado - Boulder",
@@ -7188,7 +7610,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 23177,
-    "Percentage of International Noncitizens Receiving Aid": 9
+    "Percentage of International Noncitizens Receiving Aid": 9,
+    "Estimated Family Contribution": 34083
   },
   {
     "Institution": "University of Colorado - Colorado Springs",
@@ -7205,7 +7628,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 37600
   },
   {
     "Institution": "University of Colorado - Denver",
@@ -7222,7 +7646,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 47324
   },
   {
     "Institution": "University of Connecticut",
@@ -7239,7 +7664,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8785,
-    "Percentage of International Noncitizens Receiving Aid": 3
+    "Percentage of International Noncitizens Receiving Aid": 3,
+    "Estimated Family Contribution": 48957
   },
   {
     "Institution": "University of Dallas",
@@ -7256,7 +7682,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9664,
-    "Percentage of International Noncitizens Receiving Aid": 118
+    "Percentage of International Noncitizens Receiving Aid": 118,
+    "Estimated Family Contribution": 52736
   },
   {
     "Institution": "University of Dayton",
@@ -7273,7 +7700,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 27613,
-    "Percentage of International Noncitizens Receiving Aid": 32
+    "Percentage of International Noncitizens Receiving Aid": 32,
+    "Estimated Family Contribution": 34607
   },
   {
     "Institution": "University of Delaware",
@@ -7290,7 +7718,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 52362
   },
   {
     "Institution": "University of Detroit Mercy",
@@ -7307,7 +7736,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 43688
   },
   {
     "Institution": "University of Evansville",
@@ -7324,7 +7754,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 55196
   },
   {
     "Institution": "University of Florida",
@@ -7341,7 +7772,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 43709
   },
   {
     "Institution": "University of Georgia",
@@ -7358,7 +7790,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 46698
   },
   {
     "Institution": "University of Hawaii - Manoa",
@@ -7375,7 +7808,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 20340,
-    "Percentage of International Noncitizens Receiving Aid": 80
+    "Percentage of International Noncitizens Receiving Aid": 80,
+    "Estimated Family Contribution": 31553
   },
   {
     "Institution": "University of Houston",
@@ -7392,7 +7826,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 2376,
-    "Percentage of International Noncitizens Receiving Aid": 37
+    "Percentage of International Noncitizens Receiving Aid": 37,
+    "Estimated Family Contribution": 34471
   },
   {
     "Institution": "University of Illinois - Chicago",
@@ -7409,7 +7844,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 2639,
-    "Percentage of International Noncitizens Receiving Aid": 5
+    "Percentage of International Noncitizens Receiving Aid": 5,
+    "Estimated Family Contribution": 42679
   },
   {
     "Institution": "University of Illinois - Urbana Champaign",
@@ -7426,7 +7862,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8410,
-    "Percentage of International Noncitizens Receiving Aid": "<1"
+    "Percentage of International Noncitizens Receiving Aid": "<1",
+    "Estimated Family Contribution": 40142
   },
   {
     "Institution": "University of Iowa",
@@ -7443,7 +7880,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9740,
-    "Percentage of International Noncitizens Receiving Aid": 53
+    "Percentage of International Noncitizens Receiving Aid": 53,
+    "Estimated Family Contribution": 37599
   },
   {
     "Institution": "University of Kansas",
@@ -7460,7 +7898,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9975,
-    "Percentage of International Noncitizens Receiving Aid": 32
+    "Percentage of International Noncitizens Receiving Aid": 32,
+    "Estimated Family Contribution": 32369
   },
   {
     "Institution": "University of Kentucky",
@@ -7477,7 +7916,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 50356
   },
   {
     "Institution": "University of Louisville",
@@ -7494,7 +7934,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 46024
   },
   {
     "Institution": "University of Maine - Orono",
@@ -7511,7 +7952,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 24211,
-    "Percentage of International Noncitizens Receiving Aid": 80
+    "Percentage of International Noncitizens Receiving Aid": 80,
+    "Estimated Family Contribution": 22809
   },
   {
     "Institution": "University of Maryland - Baltimore County",
@@ -7528,7 +7970,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10717,
-    "Percentage of International Noncitizens Receiving Aid": 34
+    "Percentage of International Noncitizens Receiving Aid": 34,
+    "Estimated Family Contribution": 32035
   },
   {
     "Institution": "University of Maryland - College Park",
@@ -7545,7 +7988,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 53919
   },
   {
     "Institution": "University of Massachusetts - Amherst",
@@ -7562,7 +8006,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10472,
-    "Percentage of International Noncitizens Receiving Aid": 76
+    "Percentage of International Noncitizens Receiving Aid": 76,
+    "Estimated Family Contribution": 41684
   },
   {
     "Institution": "University of Massachusetts - Boston",
@@ -7579,7 +8024,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 55296
   },
   {
     "Institution": "University of Massachusetts - Dartmouth",
@@ -7596,7 +8042,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 48602
   },
   {
     "Institution": "University of Memphis",
@@ -7613,7 +8060,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 14904,
-    "Percentage of International Noncitizens Receiving Aid": 93
+    "Percentage of International Noncitizens Receiving Aid": 93,
+    "Estimated Family Contribution": 15322
   },
   {
     "Institution": "University of Michigan - Ann Arbor",
@@ -7630,7 +8078,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 67802
   },
   {
     "Institution": "University of Michigan - Dearborn",
@@ -7647,7 +8096,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 11987,
-    "Percentage of International Noncitizens Receiving Aid": 73
+    "Percentage of International Noncitizens Receiving Aid": 73,
+    "Estimated Family Contribution": 29215
   },
   {
     "Institution": "University of Minnesota - Duluth",
@@ -7664,7 +8114,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9306,
-    "Percentage of International Noncitizens Receiving Aid": 52
+    "Percentage of International Noncitizens Receiving Aid": 52,
+    "Estimated Family Contribution": 21412
   },
   {
     "Institution": "University of Minnesota - Twin Cities",
@@ -7681,7 +8132,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 3427,
-    "Percentage of International Noncitizens Receiving Aid": 10
+    "Percentage of International Noncitizens Receiving Aid": 10,
+    "Estimated Family Contribution": 43697
   },
   {
     "Institution": "University of Mississippi",
@@ -7698,7 +8150,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 23426,
-    "Percentage of International Noncitizens Receiving Aid": 91
+    "Percentage of International Noncitizens Receiving Aid": 91,
+    "Estimated Family Contribution": 18608
   },
   {
     "Institution": "University of Missouri - Columbia",
@@ -7715,7 +8168,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 45993
   },
   {
     "Institution": "University of Nebraska - Lincoln",
@@ -7732,7 +8186,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 6759,
-    "Percentage of International Noncitizens Receiving Aid": 16
+    "Percentage of International Noncitizens Receiving Aid": 16,
+    "Estimated Family Contribution": 36621
   },
   {
     "Institution": "University of Nevada - Las Vegas",
@@ -7749,7 +8204,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8488,
-    "Percentage of International Noncitizens Receiving Aid": 37
+    "Percentage of International Noncitizens Receiving Aid": 37,
+    "Estimated Family Contribution": 32382
   },
   {
     "Institution": "University of Nevada - Reno",
@@ -7766,7 +8222,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8393,
-    "Percentage of International Noncitizens Receiving Aid": 66
+    "Percentage of International Noncitizens Receiving Aid": 66,
+    "Estimated Family Contribution": 33513
   },
   {
     "Institution": "University of New Hampshire",
@@ -7783,7 +8240,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 28170,
-    "Percentage of International Noncitizens Receiving Aid": 41
+    "Percentage of International Noncitizens Receiving Aid": 41,
+    "Estimated Family Contribution": 24000
   },
   {
     "Institution": "University of New Mexico",
@@ -7800,7 +8258,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 5954,
-    "Percentage of International Noncitizens Receiving Aid": 20
+    "Percentage of International Noncitizens Receiving Aid": 20,
+    "Estimated Family Contribution": 34249
   },
   {
     "Institution": "University of New Orleans",
@@ -7817,7 +8276,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 29583
   },
   {
     "Institution": "University of North Carolina - Chapel Hill",
@@ -7834,7 +8294,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 51725
   },
   {
     "Institution": "University of North Carolina - Charlotte",
@@ -7851,7 +8312,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 38348
   },
   {
     "Institution": "University of North Carolina - Wilmington",
@@ -7868,7 +8330,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 3024,
-    "Percentage of International Noncitizens Receiving Aid": 28
+    "Percentage of International Noncitizens Receiving Aid": 28,
+    "Estimated Family Contribution": 36839
   },
   {
     "Institution": "University of North Carolina Sch. of the Arts",
@@ -7885,7 +8348,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 12213,
-    "Percentage of International Noncitizens Receiving Aid": 35
+    "Percentage of International Noncitizens Receiving Aid": 35,
+    "Estimated Family Contribution": 26967
   },
   {
     "Institution": "University of North Dakota",
@@ -7902,7 +8366,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 12673,
-    "Percentage of International Noncitizens Receiving Aid": 26
+    "Percentage of International Noncitizens Receiving Aid": 26,
+    "Estimated Family Contribution": 16095
   },
   {
     "Institution": "University of North Florida",
@@ -7919,7 +8384,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 3096,
-    "Percentage of International Noncitizens Receiving Aid": 52
+    "Percentage of International Noncitizens Receiving Aid": 52,
+    "Estimated Family Contribution": 32837
   },
   {
     "Institution": "University of North Texas",
@@ -7936,7 +8402,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 35202
   },
   {
     "Institution": "University of Northern Iowa",
@@ -7953,7 +8420,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 3924,
-    "Percentage of International Noncitizens Receiving Aid": 65
+    "Percentage of International Noncitizens Receiving Aid": 65,
+    "Estimated Family Contribution": 29654
   },
   {
     "Institution": "University of Notre Dame",
@@ -7970,7 +8438,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 57418,
-    "Percentage of International Noncitizens Receiving Aid": 40
+    "Percentage of International Noncitizens Receiving Aid": 40,
+    "Estimated Family Contribution": 19465
   },
   {
     "Institution": "University of Oklahoma",
@@ -7987,7 +8456,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 6686,
-    "Percentage of International Noncitizens Receiving Aid": 4
+    "Percentage of International Noncitizens Receiving Aid": 4,
+    "Estimated Family Contribution": 39069
   },
   {
     "Institution": "University of Oregon",
@@ -8004,7 +8474,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10189,
-    "Percentage of International Noncitizens Receiving Aid": 12
+    "Percentage of International Noncitizens Receiving Aid": 12,
+    "Estimated Family Contribution": 45575
   },
   {
     "Institution": "University of the Pacific",
@@ -8021,7 +8492,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 68847
   },
   {
     "Institution": "University of Pittsburgh",
@@ -8038,7 +8510,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 49174
   },
   {
     "Institution": "University of Portland",
@@ -8055,7 +8528,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 43026,
-    "Percentage of International Noncitizens Receiving Aid": 88
+    "Percentage of International Noncitizens Receiving Aid": 88,
+    "Estimated Family Contribution": 23368
   },
   {
     "Institution": "University of Rhode Island",
@@ -8072,7 +8546,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 49626
   },
   {
     "Institution": "University of San Diego",
@@ -8089,7 +8564,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 12433,
-    "Percentage of International Noncitizens Receiving Aid": 9
+    "Percentage of International Noncitizens Receiving Aid": 9,
+    "Estimated Family Contribution": 59600
   },
   {
     "Institution": "University of South Carolina",
@@ -8106,7 +8582,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 11582,
-    "Percentage of International Noncitizens Receiving Aid": 14
+    "Percentage of International Noncitizens Receiving Aid": 14,
+    "Estimated Family Contribution": 38779
   },
   {
     "Institution": "University of South Florida - Tampa",
@@ -8123,7 +8600,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10375,
-    "Percentage of International Noncitizens Receiving Aid": 17
+    "Percentage of International Noncitizens Receiving Aid": 17,
+    "Estimated Family Contribution": 24405
   },
   {
     "Institution": "University of Southern California",
@@ -8140,7 +8618,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 16380,
-    "Percentage of International Noncitizens Receiving Aid": 32
+    "Percentage of International Noncitizens Receiving Aid": 32,
+    "Estimated Family Contribution": 63771
   },
   {
     "Institution": "University of St. Thomas",
@@ -8157,7 +8636,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 14449,
-    "Percentage of International Noncitizens Receiving Aid": 85
+    "Percentage of International Noncitizens Receiving Aid": 85,
+    "Estimated Family Contribution": 48027
   },
   {
     "Institution": "University of Tampa",
@@ -8174,7 +8654,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10375,
-    "Percentage of International Noncitizens Receiving Aid": 17
+    "Percentage of International Noncitizens Receiving Aid": 17,
+    "Estimated Family Contribution": 37665
   },
   {
     "Institution": "University of Tennesee - Knoxville",
@@ -8191,7 +8672,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 8714,
-    "Percentage of International Noncitizens Receiving Aid": 42
+    "Percentage of International Noncitizens Receiving Aid": 42,
+    "Estimated Family Contribution": 42184
   },
   {
     "Institution": "University of Texas - Austin",
@@ -8208,7 +8690,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 9072,
-    "Percentage of International Noncitizens Receiving Aid": 30
+    "Percentage of International Noncitizens Receiving Aid": 30,
+    "Estimated Family Contribution": 48440
   },
   {
     "Institution": "University of Texas - Dallas",
@@ -8225,7 +8708,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10617,
-    "Percentage of International Noncitizens Receiving Aid": 39
+    "Percentage of International Noncitizens Receiving Aid": 39,
+    "Estimated Family Contribution": 45105
   },
   {
     "Institution": "University of Texas - San Antonio",
@@ -8242,7 +8726,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 4658,
-    "Percentage of International Noncitizens Receiving Aid": 75
+    "Percentage of International Noncitizens Receiving Aid": 75,
+    "Estimated Family Contribution": 28226
   },
   {
     "Institution": "University of Toledo",
@@ -8259,7 +8744,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 3062,
-    "Percentage of International Noncitizens Receiving Aid": 62
+    "Percentage of International Noncitizens Receiving Aid": 62,
+    "Estimated Family Contribution": 35230
   },
   {
     "Institution": "University of Utah",
@@ -8276,7 +8762,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22017,
-    "Percentage of International Noncitizens Receiving Aid": 8
+    "Percentage of International Noncitizens Receiving Aid": 8,
+    "Estimated Family Contribution": 20866
   },
   {
     "Institution": "University of Vermont",
@@ -8293,7 +8780,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 25435,
-    "Percentage of International Noncitizens Receiving Aid": 55
+    "Percentage of International Noncitizens Receiving Aid": 55,
+    "Estimated Family Contribution": 35335
   },
   {
     "Institution": "University of Washington - Seattle",
@@ -8310,7 +8798,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 56688
   },
   {
     "Institution": "University of Wisconsin - Madison",
@@ -8327,7 +8816,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": true,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 55046
   },
   {
     "Institution": "University of Wisconsin - Milwaukee",
@@ -8344,7 +8834,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 3639,
-    "Percentage of International Noncitizens Receiving Aid": 9
+    "Percentage of International Noncitizens Receiving Aid": 9,
+    "Estimated Family Contribution": 32456
   },
   {
     "Institution": "Valparaiso University",
@@ -8361,7 +8852,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 29907,
-    "Percentage of International Noncitizens Receiving Aid": 107
+    "Percentage of International Noncitizens Receiving Aid": 107,
+    "Estimated Family Contribution": 28819
   },
   {
     "Institution": "Virginia Commonwealth University",
@@ -8378,7 +8870,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 18832,
-    "Percentage of International Noncitizens Receiving Aid": 21
+    "Percentage of International Noncitizens Receiving Aid": 21,
+    "Estimated Family Contribution": 35503
   },
   {
     "Institution": "Wagner College",
@@ -8395,7 +8888,8 @@
     "Aid Policy:Merit": false,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 0,
-    "Percentage of International Noncitizens Receiving Aid": 0
+    "Percentage of International Noncitizens Receiving Aid": 0,
+    "Estimated Family Contribution": 68148
   },
   {
     "Institution": "Wartburg College",
@@ -8412,7 +8906,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 30637,
-    "Percentage of International Noncitizens Receiving Aid": 496
+    "Percentage of International Noncitizens Receiving Aid": 496,
+    "Estimated Family Contribution": 27035
   },
   {
     "Institution": "Washington & Lee University",
@@ -8429,7 +8924,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 66671,
-    "Percentage of International Noncitizens Receiving Aid": 95
+    "Percentage of International Noncitizens Receiving Aid": 95,
+    "Estimated Family Contribution": 10929
   },
   {
     "Institution": "Washington State University",
@@ -8446,7 +8942,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10653,
-    "Percentage of International Noncitizens Receiving Aid": 33
+    "Percentage of International Noncitizens Receiving Aid": 33,
+    "Estimated Family Contribution": 32810
   },
   {
     "Institution": "Wentworth Institute of Technology",
@@ -8463,7 +8960,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10209,
-    "Percentage of International Noncitizens Receiving Aid": 91
+    "Percentage of International Noncitizens Receiving Aid": 91,
+    "Estimated Family Contribution": 45977
   },
   {
     "Institution": "Western Washington University",
@@ -8480,7 +8978,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 4440,
-    "Percentage of International Noncitizens Receiving Aid": 58
+    "Percentage of International Noncitizens Receiving Aid": 58,
+    "Estimated Family Contribution": 38123
   },
   {
     "Institution": "Westminster College (UT)",
@@ -8497,7 +8996,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 22348,
-    "Percentage of International Noncitizens Receiving Aid": 92
+    "Percentage of International Noncitizens Receiving Aid": 92,
+    "Estimated Family Contribution": 31595
   },
   {
     "Institution": "Westmont College",
@@ -8514,7 +9014,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 45179,
-    "Percentage of International Noncitizens Receiving Aid": 135
+    "Percentage of International Noncitizens Receiving Aid": 135,
+    "Estimated Family Contribution": 21041
   },
   {
     "Institution": "Wheaton College (IL)",
@@ -8531,7 +9032,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 20580,
-    "Percentage of International Noncitizens Receiving Aid": 76
+    "Percentage of International Noncitizens Receiving Aid": 76,
+    "Estimated Family Contribution": 32360
   },
   {
     "Institution": "Whittier College",
@@ -8548,7 +9050,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 26750,
-    "Percentage of International Noncitizens Receiving Aid": 62
+    "Percentage of International Noncitizens Receiving Aid": 62,
+    "Estimated Family Contribution": 39642
   },
   {
     "Institution": "Whitworth University",
@@ -8565,7 +9068,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 34619,
-    "Percentage of International Noncitizens Receiving Aid": 99
+    "Percentage of International Noncitizens Receiving Aid": 99,
+    "Estimated Family Contribution": 28271
   },
   {
     "Institution": "Widener University",
@@ -8582,7 +9086,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 27808,
-    "Percentage of International Noncitizens Receiving Aid": 52
+    "Percentage of International Noncitizens Receiving Aid": 52,
+    "Estimated Family Contribution": 37582
   },
   {
     "Institution": "Winona State University",
@@ -8599,7 +9104,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 2903,
-    "Percentage of International Noncitizens Receiving Aid": 86
+    "Percentage of International Noncitizens Receiving Aid": 86,
+    "Estimated Family Contribution": 25918
   },
   {
     "Institution": "Wittenberg University",
@@ -8616,7 +9122,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 31656,
-    "Percentage of International Noncitizens Receiving Aid": 86
+    "Percentage of International Noncitizens Receiving Aid": 86,
+    "Estimated Family Contribution": 23850
   },
   {
     "Institution": "Worcester Polytechnic Institute",
@@ -8633,7 +9140,8 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 19039,
-    "Percentage of International Noncitizens Receiving Aid": 74
+    "Percentage of International Noncitizens Receiving Aid": 74,
+    "Estimated Family Contribution": 53257
   },
   {
     "Institution": "Xavier University of Louisiana",
@@ -8650,6 +9158,7 @@
     "Aid Policy:Merit": true,
     "Aid Policy:No Aid": false,
     "Average Financial Aid Award": 10532,
-    "Percentage of International Noncitizens Receiving Aid": 111
+    "Percentage of International Noncitizens Receiving Aid": 111,
+    "Estimated Family Contribution": 28900
   }
 ]
