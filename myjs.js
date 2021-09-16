@@ -34,11 +34,9 @@ $(document).ready(() => {
 	form.addEventListener('submit', (e) => {
 		e.preventDefault();
 		var res=[], efc=formData.get('efc'), ed=formData.get('ed');
-		console.log(efc, ed);
 		for (let v of all)
-			if (efc<=v[15] && ((ed && v[1]>0) || !ed))
+			if (parseInt(v[14])<=efc && ((ed==='on' && parseFloat(v[1])>0) || ed==='off'))
 				res.push(v);
-		console.log(res);
 		$('table').DataTable({
 			data:res,
 			columns:[
