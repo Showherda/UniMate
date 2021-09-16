@@ -35,7 +35,7 @@ $(document).ready(() => {
 		e.preventDefault();
 		var res=[], efc=formData.get('efc'), ed=formData.get('ed');
 		for (let v of all)
-			if (parseInt(v[14])<=efc && ((ed==='on' && parseFloat(v[1])>0) || ed==='off'))
+			if (parseInt(v[v.length-1])<=efc && ((ed==='on' && parseFloat(v[1])>0) || ed==='off'))
 				res.push(v);
 		$('table').DataTable({
 			data:res,
