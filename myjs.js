@@ -25,6 +25,7 @@ $(document).ready(() => {
 					s+=v[i];
 				i+=1
 			}
+			all[all.length-1].push(s);
 			all.push([]);
 		}
 		all.pop();
@@ -33,10 +34,15 @@ $(document).ready(() => {
 	var formData=new FormData(form);
 	form.addEventListener('submit', (e) => {
 		e.preventDefault();
-		var res=[], efc=formData.get('efc'), ed=formData.get('ed');
+		var res=[[]], efc=formData.get('efc'), ed=formData.get('ed');
 		for (let v of all)
-			if (parseInt(v[v.length-1])<=efc && ((ed==='on' && parseFloat(v[1])>0) || ed==='off'))
-				res.push(v);
+			if (parseInt(v[v.length-1])<=parseInt(efc) && ((ed==='on' && parseFloat(v[1])>0) || ed==='off')){
+				for (let i=0; i<v.length; i++)
+					if (i==0 || i==4 || i==9 || i==14 || i==15)
+						res[res.length-1].push(v[i]);
+				res.push([]);
+			}
+		res.pop();
 		$('table').DataTable({
 			data:res,
 			columns:[
