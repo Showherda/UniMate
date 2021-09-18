@@ -47,7 +47,7 @@ $(document).ready(() => {
 				{title:'ED to RD Acceptance Ratio'},
 				{title:'Percentage of International Noncitizens to All Undergraduates'},
 				{title:'Percentage of International Noncitizens Receiving Aid'},
-				{title:'Estimated Family Contribution'}
+				{title:'Estimated Family Contribution (in USD)'}
 			]
 		});
 		$('tr').click((e) => {
@@ -97,7 +97,7 @@ $(document).ready(() => {
 				{title:'ED to RD Acceptance Ratio'},
 				{title:'Percentage of International Noncitizens to All Undergraduates'},
 				{title:'Percentage of International Noncitizens Receiving Aid'},
-				{title:'Estimated Family Contribution'}
+				{title:'Estimated Family Contribution (in USD)'}
 			]
 		});
 		$('tr').click((e) => {
