@@ -87,7 +87,6 @@ $(document).ready(() => {
 				res.push([]);
 			}
 		res.pop();
-		console.log(res);
 		table.DataTable().clear().destroy();
 		table.DataTable({
 			data:res,
