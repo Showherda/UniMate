@@ -77,11 +77,9 @@ $(document).ready(() => {
 	};
 	form.addEventListener('submit', (e) => {
 		e.preventDefault();
-		console.log(all);
 		formData=new FormData(form);
 		efc=formData.get('efc');
 		ed=formData.get('ed');
-		console.log(efc, ed);
 		res=[[]];
 		for (let v of all)
 			if (parseInt(v[v.length-1])<=parseInt(efc) && ((ed==='on' && parseFloat(v[1])>0) || !ed)){
@@ -91,7 +89,6 @@ $(document).ready(() => {
 				res.push([]);
 			}
 		res.pop();
-		console.log(res);
 		table.DataTable().clear().destroy();
 		table.DataTable({
 			data:res,
