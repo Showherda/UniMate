@@ -6,7 +6,7 @@ $(document).ready(() => {
 	request.send();
 	var all=[[]];
 	var form=document.querySelector('form');
-	var formData=new FormData(form);
+	var formData;
 	var res=[[]];
 	var table=$('table'), efc, ed;
 	request.onload=() => {
@@ -78,11 +78,13 @@ $(document).ready(() => {
 	form.addEventListener('submit', (e) => {
 		e.preventDefault();
 		console.log(all);
-		efc=formData.get('efc'), ed=formData.get('ed');
+		formData=new FormData(form);
+		efc=formData.get('efc');
+		ed=formData.get('ed');
 		console.log(efc, ed);
 		res=[[]];
 		for (let v of all)
-			if (parseInt(v[v.length-1])<=parseInt(efc) && ((ed==='on' && parseFloat(v[1])>0) || ed==='off')){
+			if (parseInt(v[v.length-1])<=parseInt(efc) && ((ed==='on' && parseFloat(v[1])>0) || !ed)){
 				for (let i=0; i<v.length; i++)
 					if (i==0 || i==4 || i==9 || i==14 || i==15)
 						res[res.length-1].push(v[i]);
