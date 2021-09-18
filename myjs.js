@@ -50,6 +50,30 @@ $(document).ready(() => {
 				{title:'Estimated Family Contribution'}
 			]
 		});
+		$('tr').click((e) => {
+			if (e.target.parentNode.parentNode.tagName=='TBODY'){
+				let name=e.target.parentNode.childNodes[0].innerHTML;
+				$('.modal-title').text(name);
+				for (let v of all)
+					if (name===v[0])
+						$('#ind1').text(v[1]),
+						$('#ind2').text(v[2]),
+						$('#ind3').text(v[3]),
+						$('#ind4').text(v[4]),
+						$('#ind5').text(v[5]),
+						$('#ind6').text(v[6]),
+						$('#ind7').text(v[7]),
+						$('#ind8').text(v[8]),
+						$('#ind9').text(v[9]),
+						$('#ind10').text(v[10]),
+						$('#ind11').text(v[11]),
+						$('#ind12').text(v[12]),
+						$('#ind13').text(v[13]),
+						$('#ind14').text(v[14]),
+						$('#ind15').text(v[15]);
+				$('.modal').modal();
+			}
+		});	
 	};
 	form.addEventListener('submit', (e) => {
 		e.preventDefault();
