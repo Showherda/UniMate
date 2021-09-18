@@ -2,13 +2,13 @@ const requestURL='https://showherda.github.io/unimate/data.txt';
 $(document).ready(() => {
 	let request=new XMLHttpRequest();
 	request.open('GET', requestURL);
-	request.responseType='txt';
+	request.responseType='text';
 	request.send();
 	var all=[[]];
 	var form=document.querySelector('form');
 	var formData=new FormData(form);
 	var res=[[]];
-	var table=$('table');
+	var table=$('table'), efc, ed;
 	request.onload=() => {
 		document.querySelector('button').disabled=false;
 		for (let v of request.response.split(';')){
@@ -73,11 +73,13 @@ $(document).ready(() => {
 						$('#ind15').text(v[15]);
 				$('.modal').modal();
 			}
-		});	
+		});
 	};
 	form.addEventListener('submit', (e) => {
 		e.preventDefault();
-		var efc=formData.get('efc'), ed=formData.get('ed');
+		console.log(all);
+		efc=formData.get('efc'), ed=formData.get('ed');
+		console.log(efc, ed);
 		res=[[]];
 		for (let v of all)
 			if (parseInt(v[v.length-1])<=parseInt(efc) && ((ed==='on' && parseFloat(v[1])>0) || ed==='off')){
@@ -87,6 +89,7 @@ $(document).ready(() => {
 				res.push([]);
 			}
 		res.pop();
+		console.log(res);
 		table.DataTable().clear().destroy();
 		table.DataTable({
 			data:res,
@@ -97,6 +100,30 @@ $(document).ready(() => {
 				{title:'Percentage of International Noncitizens Receiving Aid'},
 				{title:'Estimated Family Contribution'}
 			]
+		});
+		$('tr').click((e) => {
+			if (e.target.parentNode.parentNode.tagName=='TBODY'){
+				let name=e.target.parentNode.childNodes[0].innerHTML;
+				$('.modal-title').text(name);
+				for (let v of all)
+					if (name===v[0])
+						$('#ind1').text(v[1]),
+						$('#ind2').text(v[2]),
+						$('#ind3').text(v[3]),
+						$('#ind4').text(v[4]),
+						$('#ind5').text(v[5]),
+						$('#ind6').text(v[6]),
+						$('#ind7').text(v[7]),
+						$('#ind8').text(v[8]),
+						$('#ind9').text(v[9]),
+						$('#ind10').text(v[10]),
+						$('#ind11').text(v[11]),
+						$('#ind12').text(v[12]),
+						$('#ind13').text(v[13]),
+						$('#ind14').text(v[14]),
+						$('#ind15').text(v[15]);
+				$('.modal').modal();
+			}
 		});
 	});
 });
