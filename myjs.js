@@ -78,7 +78,7 @@ $(document).ready(() => {
 	form.addEventListener('submit', (e) => {
 		e.preventDefault();
 		formData=new FormData(form);
-		efc=formData.get('efc');
+		efc=formData.get('efc') || '100000009';
 		ed=formData.get('ed');
 		res=[[]];
 		for (let v of all)
