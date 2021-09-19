@@ -136,7 +136,7 @@
 "Bethel University",0,0,0,0,"",32198,2086,11,1,true,true,false,22401,73.0,9797;
 "Biola University",0,0,0,0,"",59758,3686,190,5,false,false,false,16079,90.0,43679;
 "Bradley University",0,0,0,0,"",50200,4508,88,2,false,true,false,25064,27.0,25136;
-"Brigham Young University (2)",0,0,0,0,"",19594,28112,1150,4,true,true,false,5255,100.0,14339;
+"Brigham Young University",0,0,0,0,"",19594,28112,1150,4,true,true,false,5255,100.0,14339;
 "Butler University",0,0,0,0,"",61830,4511,32,1,false,true,false,0,0.0,61830;
 "California Institute of Technology",0,0,0,0,"",77718,901,68,8,true,false,false,61706,47.0,16012;
 "California Poly State U. - San Luis Obispo",0,0,0,0,"",44743,19589,447,2,false,true,false,5418,24.0,39325;
