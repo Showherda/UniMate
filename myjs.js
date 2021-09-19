@@ -50,7 +50,7 @@ $(document).ready(() => {
 				{title:'Estimated Family Contribution (in USD)'}
 			]
 		});
-		$('tr').click((e) => {
+		$('body').click((e) => {
 			if (e.target.parentNode.parentNode.tagName=='TBODY'){
 				let name=e.target.parentNode.childNodes[0].innerHTML;
 				$('.modal-title').text(name);
@@ -100,7 +100,7 @@ $(document).ready(() => {
 				{title:'Estimated Family Contribution (in USD)'}
 			]
 		});
-		$('tr').click((e) => {
+		$('body').click((e) => {
 			if (e.target.parentNode.parentNode.tagName=='TBODY'){
 				let name=e.target.parentNode.childNodes[0].innerHTML;
 				$('.modal-title').text(name);
